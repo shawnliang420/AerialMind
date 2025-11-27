@@ -1,7 +1,7 @@
 # AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios
 
 This official repository of the paper [AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios](). 
-<div align=center><img src="Figs/motivation.pdf"/></div>
+<div align=center><img src="Figs/motivation.png"/></div>
 
 # Abstract
 Referring Multi-Object Tracking (RMOT) aims to achieve precise target detection and tracking through natural language instructions. While existing RMOT methods have demonstrated promising results in ground-level scenarios, they fundamentally lack the capability to address the unique challenges inherent in aerial perspectives. The dramatic scale variations, complex spatial relationships, and dynamic viewpoint changes in it lead to the limited generalization ability of these methods in real-world applications. Consequently, we introduce AerialMind, the first large-scale RMOT benchmark in Unmanned Aerial Vehicle (UAV) scenarios, which aims to bridge this research gap.  To facilitate its construction, we developed COALA, a novel semi-automated collaborative agent-based labeling assistant framework that significantly reduces labor costs while maintaining annotation quality. Furthermore, we propose HawkEyeTrack (HETrack), a novel tracking method that synergistically vision-language representation learning and enhances the perception of small-scale objects. Comprehensive experiments validated the challenge of our dataset and the effectiveness of our method. The dataset and code will be publicly at here.
@@ -30,7 +30,7 @@ Overview of the HawkEyeTrack.
 
 # Results
 ## Visualization
-<div align=center><img src="Figs/vis.pdf"/></div>
+<div align=center><img src="Figs/vis.png"/></div>
 
 # Getting started
 ## Data Preparation
@@ -84,4 +84,5 @@ Put the tracking datasets in ./data. It should look like:
 - [x] release the dataset [Train]
 - [ ] release the dataset [Test]
 - [ ] release the code
+
 
