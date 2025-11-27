@@ -1,6 +1,6 @@
 # AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios
 
-This official repository of the paper [AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios](). 
+This official repository of the paper [AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios](https://arxiv.org/abs/2511.21053). 
 <div align=center><img src="Figs/motivation.png"/></div>
 
 # Abstract
@@ -84,5 +84,6 @@ Put the tracking datasets in ./data. It should look like:
 - [x] release the dataset [Train]
 - [ ] release the dataset [Test]
 - [ ] release the code
+
 
 
