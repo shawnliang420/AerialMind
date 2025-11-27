@@ -75,7 +75,7 @@ Put the tracking datasets in ./data. It should look like:
 
 # TODO List
 
-- [x] release the dataset [Train]
+- [ ] release the dataset [Train]
 - [ ] release the dataset [Test]
 - [ ] release the code
 
@@ -84,6 +84,7 @@ Put the tracking datasets in ./data. It should look like:
 📢We would like to express our sincere gratitude to the authors and developers of [ **RMOT**](https://github.com/wudongming97/RMOT)、[ **TempRMOT**](https://github.com/zyn213/TempRMOT)、[ **CRMOT**](https://github.com/chen-si-jia/CRMOT)、[ **RefDrone**](https://github.com/sunzc-sunny/refdrone). Their repository provided valuable guidance and inspiration for the construction ([ **CRMOT**](https://github.com/chen-si-jia/CRMOT)、[ **RefDrone**](https://github.com/sunzc-sunny/refdrone)) of our dataset. 
 
 We also thank the community for their interest in AerialMind.
+
 
 
 
