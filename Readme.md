@@ -3,8 +3,9 @@
 This official repository of the paper [AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios](https://arxiv.org/abs/2511.21053). 
 <div align=center><img src="Figs/motivation.png"/></div>
 
-# Abstract
-Referring Multi-Object Tracking (RMOT) aims to achieve precise target detection and tracking through natural language instructions. While existing RMOT methods have demonstrated promising results in ground-level scenarios, they fundamentally lack the capability to address the unique challenges inherent in aerial perspectives. The dramatic scale variations, complex spatial relationships, and dynamic viewpoint changes in it lead to the limited generalization ability of these methods in real-world applications. Consequently, we introduce AerialMind, the first large-scale RMOT benchmark in Unmanned Aerial Vehicle (UAV) scenarios, which aims to bridge this research gap.  To facilitate its construction, we developed COALA, a novel semi-automated collaborative agent-based labeling assistant framework that significantly reduces labor costs while maintaining annotation quality. Furthermore, we propose HawkEyeTrack (HETrack), a novel tracking method that synergistically vision-language representation learning and enhances the perception of small-scale objects. Comprehensive experiments validated the challenge of our dataset and the effectiveness of our method. The dataset and code will be publicly at here.
+## Dataset Availability:
+📢 The dataset is currently being organized. We will release the download link as soon as the final checks are completed. Stay tuned.
+
 
 # Dataset Features and Statistics
 | Dataset        | Source       | Videos | Dom. | Reas. | Attr. | Expressions | Words | Instance / Expression | Instance | Annobbox  |
@@ -21,12 +22,6 @@ Referring Multi-Object Tracking (RMOT) aims to achieve precise target detection 
 <div align=center><img src="Figs/dataset_analysis.png"/></div>
 
 
-
-# Method
-<div align=center><img src="Figs/annotation.png"/></div>
-Overview of the four-stage annotation process in the COALA framework. This framework efficiently constructs the AerialMind dataset through multi-agent collaboration and human-computer interaction.
-<div align=center><img src="Figs/pipeline.png"/></div>
-Overview of the HawkEyeTrack.
 
 # Results
 ## Visualization
@@ -84,6 +79,12 @@ Put the tracking datasets in ./data. It should look like:
 - [x] release the dataset [Train]
 - [ ] release the dataset [Test]
 - [ ] release the code
+
+# Acknowledgements
+
+📢We would like to express our sincere gratitude to the authors and developers of [ **RMOT**](https://github.com/wudongming97/RMOT)、[ **TempRMOT**](https://github.com/zyn213/TempRMOT)、[ **CRMOT**](https://github.com/chen-si-jia/CRMOT)、[ **RefDrone**](https://github.com/sunzc-sunny/refdrone). Their repository provided valuable guidance and inspiration for the construction ([ **CRMOT**](https://github.com/chen-si-jia/CRMOT)、[ **RefDrone**](https://github.com/sunzc-sunny/refdrone)) of our dataset. 
+
+We also thank the community for their interest in AerialMind.
 
 
 
