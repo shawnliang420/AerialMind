@@ -3,8 +3,15 @@
 This official repository of the paper [AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios](https://arxiv.org/abs/2511.21053). 
 <div align=center><img src="Figs/motivation.png"/></div>
 
-## Dataset Availability:
-📢 **The dataset is currently being organized. We will release the download link as soon as the final checks are completed. Stay tuned.**
+## 📢 Dataset Availability:
+ **The dataset is currently being organized. We will release the download link as soon as the final checks are completed. Stay tuned.**
+
+## 💡 Building Your Own Dataset?
+If you aim to construct a dataset similar to AerialMind, this repository [ **CRMOT**](https://github.com/chen-si-jia/CRMOT) serves as a comprehensive guide containing all the necessary resources and detailed pipeline information. We sincerely thank the authors for their contributions.
+
+We referenced the [**RefDrone**](https://github.com/sunzc-sunny/refdrone) repository for the **COALA** methodology. We sincerely thank the authors for their contributions. We are will officially release our core annotation tool (**Stage 2**) to facilitate future research.
+
+
 
 # Dataset Features and Statistics
 | Dataset        | Source       | Videos | Dom. | Reas. | Attr. | Expressions | Words | Instance / Expression | Instance | Annobbox  |
@@ -84,6 +91,7 @@ Put the tracking datasets in ./data. It should look like:
 📢We would like to express our sincere gratitude to the authors and developers of [ **RMOT**](https://github.com/wudongming97/RMOT)、[ **TempRMOT**](https://github.com/zyn213/TempRMOT)、[ **CRMOT**](https://github.com/chen-si-jia/CRMOT)、[ **RefDrone**](https://github.com/sunzc-sunny/refdrone). Their repository provided valuable guidance and inspiration for the construction ([ **CRMOT**](https://github.com/chen-si-jia/CRMOT)、[ **RefDrone**](https://github.com/sunzc-sunny/refdrone)) of our dataset. 
 
 We also thank the community for their interest in AerialMind.
+
 
 
 
