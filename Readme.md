@@ -9,7 +9,7 @@ This official repository of the paper [AerialMind: Towards Referring Multi-Objec
 
 Thank you everyone for your patience during the preparation phase. We are excited to announce that the dataset is now officially open for public use.
 
-📥 **Baidu Netdisk:** [Baidu]()  
+📥 **Baidu Netdisk:** [Baidu](https://pan.baidu.com/s/1gr15tk55UdYYitbKGh-puQ?pwd=869n)  
 **Google Drive:** ⏳ *Upload in progress... (Links will be updated soon)*
 
 
