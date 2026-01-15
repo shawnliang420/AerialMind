@@ -226,6 +226,7 @@ If you find AerialMind useful in your research, please consider citing:
   journal={arXiv preprint arXiv:2511.21053},
   year={2025}
 }
+```
 
 
 
