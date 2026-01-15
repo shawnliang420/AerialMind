@@ -17,7 +17,7 @@ Thank you everyone for your patience during the preparation phase. We are excite
 ## 💡 Building Your Own Dataset?
 If you aim to construct a dataset similar to AerialMind, this repository [ **CRMOT**](https://github.com/chen-si-jia/CRMOT) serves as a comprehensive guide containing all the necessary resources and detailed pipeline information. We sincerely thank the authors for their contributions.
 
-We referenced the [**RefDrone**](https://github.com/sunzc-sunny/refdrone) repository for the **COALA** methodology. We sincerely thank the authors for their contributions. We will release our core annotation tool (**Stage 2**) to facilitate future research.
+We referenced the [**RefDrone**](https://github.com/sunzc-sunny/refdrone) repository for the **COALA** methodology. We sincerely thank the authors for their contributions. We will release our core annotation tool [**Stage 2**](./Annotation/COALA(Stage2).md) to facilitate future research.
 
 
 
@@ -94,6 +94,7 @@ if __name__ == '__main__':
 📢We would like to express our sincere gratitude to the authors and developers of [ **RMOT**](https://github.com/wudongming97/RMOT)、[ **TempRMOT**](https://github.com/zyn213/TempRMOT)、[ **CRMOT**](https://github.com/chen-si-jia/CRMOT)、[ **RefDrone**](https://github.com/sunzc-sunny/refdrone). Their repository provided valuable guidance and inspiration for the construction ([ **CRMOT**](https://github.com/chen-si-jia/CRMOT)、[ **RefDrone**](https://github.com/sunzc-sunny/refdrone)) of our dataset. 
 
 We also thank the community for their interest in AerialMind.
+
 
 
 
