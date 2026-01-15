@@ -55,38 +55,34 @@ Put the tracking datasets in ./data. It should look like:
             |-- labels_with_ids
    ```
 
-## Installation
+## Test Set Partition
+### In-Domain (VisDrone):
+`video_ids = ["uav0000009_03358_v", "uav0000073_00600_v", "uav0000073_04464_v", "uav0000077_00720_v", "uav0000088_00290_v", "uav0000119_02301_v", "uav0000120_04775_v", "uav0000161_00000_v", "uav0000188_00000_v", "uav0000201_00000_v", "uav0000249_00001_v", "uav0000249_02688_v", "uav0000297_00000_v", "uav0000297_02761_v", "uav0000306_00230_v", "uav0000355_00001_v", "uav0000370_00001_v"]`
 
-* Linux, CUDA>=9.2, GCC>=5.4
-  
-* Python>=3.7
+### Cross-Domain(UAVDT):
+`video_ids = ["M0203", "M0205", "M0209", "M0403", "M0701", "M0801", "M1001", "M1004", "M1007", "M1101", "M1301", "M1302", "M1401"]`
 
-    We recommend you to use Anaconda to create a conda environment:
-    ```bash
-    conda create -n deformable_detr python=3.7 pip
-    ```
-    Then, activate the environment:
-    ```bash
-    conda activate deformable_detr
-    ```
-  
-* PyTorch>=1.5.1, torchvision>=0.6.1 (following instructions [here](https://pytorch.org/))
+You can update the if __name__ == '__main__': block in the [inference.py ](https://github.com/wudongming97/RMOT/blob/master/inference.py) (e.g, TransRMOT) as follows:
 
-    For example, if your CUDA version is 9.2, you could install pytorch and torchvision as following:
-    ```bash
-    conda install pytorch=1.5.1 torchvision=0.6.1 cudatoolkit=9.2 -c pytorch
-    ```
-  
-* Other requirements
-    ```bash
-    pip install -r requirements.txt
-    ```
+```
+if __name__ == '__main__':
+    torch.multiprocessing.set_start_method('spawn')
+    parser = argparse.ArgumentParser('DETR training and evaluation script', parents=[get_args_parser()])
+    args = parser.parse_args()
+    
+    if args.output_dir:
+        Path(args.output_dir).mkdir(parents=True, exist_ok=True)
 
-* Build MultiScaleDeformableAttention
-    ```bash
-    cd ./models/ops
-    sh ./make.sh
-    ```
+    expressions_root = os.path.join(args.rmot_path, 'expression')
+    
+    if "KITTI" in args.rmot_path: 
+        video_ids = ['0005', '0011', '0013', '0019']
+    else: 
+        # Add your target test set here (e.g., In-Domain)
+        video_ids =  ["uav0000009_03358_v", "uav0000073_00600_v", "uav0000073_04464_v","uav0000077_00720_v", "uav0000088_00290_v", "uav0000119_02301_v", "uav0000120_04775_v", "uav0000161_00000_v", "uav0000188_00000_v", "uav0000201_00000_v", "uav0000249_00001_v", "uav0000249_02688_v", "uav0000297_00000_v", "uav0000297_02761_v", "uav0000306_00230_v", "uav0000355_00001_v", "uav0000370_00001_v"]
+        #video_ids =  ["M0203", "M0205", "M0209","M0403", "M0701", "M0801", "M1001", "M1004", "M1007", "M1101", "M1301", "M1302", "M1401"]
+```
+
 
 # TODO List
 
