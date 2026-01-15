@@ -215,9 +215,10 @@ python new_metric.py
 
 📢We would like to express our sincere gratitude to the authors and developers of [ **RMOT**](https://github.com/wudongming97/RMOT)、[ **TempRMOT**](https://github.com/zyn213/TempRMOT)、[ **CRMOT**](https://github.com/chen-si-jia/CRMOT)、[ **RefDrone**](https://github.com/sunzc-sunny/refdrone). Their repository provided valuable guidance and inspiration for the construction ([ **CRMOT**](https://github.com/chen-si-jia/CRMOT)、[ **RefDrone**](https://github.com/sunzc-sunny/refdrone)) of our dataset. 
 
-We also thank the community for their interest in AerialMind.
+We also thank the community for your interest in AerialMind.
 
-
+## Citing AerialMind
+If you find AerialMind useful in your research, please consider citing:
 ```bibtex
 @article{chen2025aerialmind,
   title={AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios},
