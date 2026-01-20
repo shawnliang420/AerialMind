@@ -1,0 +1,3415 @@
+M0203+Vehicles taking right turns in top section
+M0203+Black painted cars
+M0203+Cars that are moving away from us
+M0203+Heavy duty truck
+M0203+Cars performing right turns in top area
+M0203+Automobiles making right turns above
+M0203+Dark vehicles proceeding
+M0203+The stopped taxi
+M0203+Large capacity passenger vehicle
+M0203+Cargo transport
+M0203+Multi-passenger coach
+M0203+Vehicles executing left turns at bottom
+M0203+Black automobiles in movement
+M0203+Automobile paused at red light
+M0203+Black colored cars
+M0203+Vehicles executing right turns on left
+M0203+Public transport vehicle
+M0203+Vehicles going away from us
+M0203+Passenger coach vehicle
+M0203+The car at rest with lights enabled
+M0203+Heavy transport vehicle
+M0203+Cars in light shades
+M0203+Dark automobiles
+M0203+Vehicles with light colors
+M0203+The driving vehicle without lights
+M0203+Red cars traveling
+M0203+The red cars
+M0203+This white vehicle is cutting into the lane alongside it
+M0203+Vehicles with dark colors
+M0203+Automobiles moving in opposite direction
+M0203+The cab in movement
+M0203+The driving car without headlights
+M0203+Car positioned at red traffic light
+M0203+Non-moving vehicles
+M0203+The cab's movement indicates it is cutting into the next lane
+M0203+The black colored cars
+M0203+The stopped car with headlights activated
+M0203+Red cars driving
+M0203+Cars heading toward our position
+M0203+The driving taxi
+M0203+The car is seen crossing the lane divider line
+M0203+The stationary car with headlights on
+M0203+The black exterior vehicles
+M0203+The dark vehicles
+M0203+The light-colored car's travel path goes outside of the lane boundaries
+M0203+The traveling car with headlights not on
+M0203+The dark-colored car's trajectory is exceeding the painted lane lines
+M0203+The immobile car with lights illuminated
+M0203+The pale-shaded auto is simultaneously present in sections of two lanes
+M0203+The vehicle is crossing over the painted lane divider
+M0203+The moving car with headlights off
+M0203+Dark-colored cars
+M0203+Vehicles approaching our position
+M0203+Vehicle at rest at red light
+M0203+Taxi invading other lanes
+M0203+Cars performing left turns in bottom area
+M0203+Black vehicles in motion
+M0203+The black auto's travel path is encroaching on the adjacent lane
+M0203+The moving hired vehicle
+M0203+Red cars in transit
+M0203+White painted cars
+M0203+Parked automobiles
+M0203+Cars traveling
+M0203+Automobile waiting at stoplight
+M0203+The vehicle at standstill with headlights on
+M0203+The automobile is taking up space in two separate lanes at once
+M0203+Vehicles moving in reverse direction from us
+M0203+The movement of the black car is causing it to enter the space of an adjacent lane
+M0203+Moving dark automobiles
+M0203+Red automobiles in movement
+M0203+White automobiles in movement
+M0203+The black-painted vehicles
+M0203+The white cars
+M0203+The taxi at rest
+M0203+Cars at rest
+M0203+Auto stopped at red stoplight
+M0203+The cab at standstill
+M0203+Autos turning right in left portion
+M0203+Automobiles making left turns at bottom
+M0203+Vehicles turning right at left edge
+M0203+Automobiles driving
+M0203+Vehicles taking left turns in bottom section
+M0203+The parked cab
+M0203+Cars driving toward us
+M0203+Automobiles moving in our direction
+M0203+The car not moving with lights activated
+M0203+Cars turning left on the bottom side of the view
+M0203+The moving taxi
+M0203+Vehicles proceeding
+M0203+Moving red automobiles
+M0203+The cab is observed occupying portions of two lanes at the same time
+M0203+Cars in dark shades
+M0203+This dark-colored car's path shows it is cutting into another lane
+M0203+Automobiles approaching our vicinity
+M0203+The taxi not moving
+M0203+Moving white-colored vehicles
+M0203+The red exterior vehicles
+M0203+The black finish cars
+M0203+Still cars
+M0203+Vehicles taking right turns on left section
+M0203+Red vehicles in motion
+M0203+The path of the light-colored auto is encroaching on the nearby lane
+M0203+Vehicles moving in our direction
+M0203+The red-toned vehicles
+M0203+The traveling taxi cab
+M0203+Traveling red cars
+M0203+The car in motion with lights disabled
+M0203+Vehicles traveling away from our position
+M0203+The light-toned vehicles
+M0203+The white-painted vehicles
+M0203+Vehicle stopped at red traffic signal
+M0203+Traveling white cars
+M0203+The automobile traveling with headlights off
+M0203+Cars heading away from our position
+M0203+Light-colored car invading other lanes
+M0203+The white car is failing to stay inside its designated lane
+M0203+The car driving with lights not activated
+M0203+Light-toned automobiles
+M0203+Cars making left-hand turns at bottom
+M0203+Black vehicles
+M0203+Cars proceeding toward us
+M0203+Vehicles in motion
+M0203+The stationary taxi
+M0203+White car intruding into other lanes
+M0203+Freight truck
+M0203+Car waiting at red light
+M0203+Cars not moving
+M0203+The white vehicles
+M0203+The stationary vehicle with headlights lit
+M0203+The black automobiles
+M0203+Moving red cars
+M0203+Automobiles making right turns at left
+M0203+Truck
+M0203+The black cars
+M0203+Cars making right-hand turns on left
+M0203+Automobiles making right turns at top
+M0203+Light finish vehicles
+M0203+The red-colored cars
+M0203+The moving cab vehicle
+M0203+The taxi in motion
+M0203+Cars invading other lanes
+M0203+Automobiles making right turns leftward
+M0203+Moving white cars
+M0203+Automobiles departing our vicinity
+M0203+Traveling vehicles
+M0203+Moving dark-colored vehicles
+M0203+City transit bus
+M0203+Bus
+M0203+The dark automobiles
+M0203+Cars in movement
+M0203+Black car invading other lanes
+M0203+Multi-seat transport vehicle
+M0203+White cars traveling
+M0203+Moving automobiles
+M0203+Stationary cars
+M0203+Car halted at red traffic light
+M0203+Red automobiles traveling
+M0203+Black cars in transit
+M0203+The moving car with lights switched off
+M0203+Black cars driving
+M0203+Vehicle waiting at traffic signal
+M0203+The red vehicles
+M0203+Dark finish vehicles
+M0203+Public service bus
+M0203+Heavy cargo vehicle
+M0203+White cars driving
+M0203+Automobiles with light exterior
+M0203+The vehicle in motion without headlights
+M0203+Cars performing right turns in left area
+M0203+Cars making right-hand turns at top
+M0203+The parked taxi cab
+M0203+Vehicles turning left at bottom edge
+M0203+The traveling taxi service
+M0203+The pale-shaded vehicle appears to be cutting into the lane next to it
+M0203+Dark cars traveling
+M0203+Cars turning right in upper view area
+M0203+The moving automobile with headlights turned off
+M0203+The taxi's travel path is encroaching on the space of the adjacent lane
+M0203+The car's trajectory extends beyond its lane's markings
+M0203+Light-colored cars
+M0203+Cars driving forward
+M0203+Dark-toned automobiles
+M0203+The red colored cars
+M0203+The vehicle is observed crossing the lane marker into the next lane
+M0203+Light automobiles
+M0203+The stopped cab
+M0203+Cars turning right in left view area
+M0203+This cab is crossing the marked line that separates the lanes
+M0203+The traveling cab
+M0203+Automobiles with dark exterior
+M0203+Parked vehicles
+M0203+The red automobiles
+M0203+The car's motion is causing it to intrude into the neighboring lane's space
+M0203+Cars turning left in lower view area
+M0203+Light-painted cars
+M0203+The immobile automobile with headlights turned on
+M0203+The white automobile's path is encroaching on the adjacent lane
+M0203+The car's movement shows it is cutting into an adjacent lane
+M0203+Cars turning right on the left side of the view
+M0203+The stationary cab vehicle
+M0203+Commercial truck
+M0203+White vehicles
+M0203+Large passenger vehicle
+M0203+The stopped automobile with headlights on
+M0203+Vehicles making right turns at top of view
+M0203+Vehicles making right turns on left side
+M0203+Vehicles turning right at top edge
+M0203+The immobile hired vehicle
+M0203+The immobile taxi cab
+M0203+The white exterior vehicles
+M0203+Inactive automobiles
+M0203+Immobile automobiles
+M0203+The white automobiles
+M0203+Cars driving away from us
+M0203+The white colored cars
+M0203+This automobile's route is encroaching upon the next lane
+M0203+The driving cab
+M0203+The light painted automobiles
+M0203+The parked car with lights switched on
+M0203+The taxi is not keeping to its own lane
+M0203+White vehicles in motion
+M0203+The taxi driving forward
+M0203+The dark-toned vehicles
+M0203+Public transportation bus
+M0203+Cars proceeding away from us
+M0203+Large transport truck
+M0203+Moving white automobiles
+M0203+Vehicles coming toward our location
+M0203+This vehicle is driving across the line marking into the adjacent lane
+M0203+Dark-painted cars
+M0203+The white auto is occupying parts of two lanes at once
+M0203+The white vehicle's trajectory is extending beyond the lane markings
+M0203+Large delivery vehicle
+M0203+The red finish cars
+M0203+The dark painted automobiles
+M0203+The dark-colored cars
+M0203+Cars turning right on the top side of the view
+M0203+Large cargo vehicle
+M0203+Automobiles in motion
+M0203+Automobiles making left turns below
+M0203+The vehicle is failing to stay within its designated lane
+M0203+The parked vehicle with lights on
+M0203+White automobiles traveling
+M0203+The movement of this light-colored car makes it enter the adjacent lane's area
+M0203+Vehicle stationed at red signal
+M0203+This black automobile is simultaneously occupying parts of two lanes
+M0203+White vehicles proceeding
+M0203+Vehicles at standstill
+M0203+Autos turning left in lower portion
+M0203+Cars that are moving towards us
+M0203+Autos traveling away from our view
+M0203+Moving red-colored vehicles
+M0203+Stopped cars
+M0203+White colored cars
+M0203+Freight vehicle
+M0203+Car paused at red traffic signal
+M0203+Cars in transit
+M0203+The white car's movement is causing it to enter the neighboring lane
+M0203+Vehicles coming our way
+M0203+The red painted automobiles
+M0203+Vehicles making left turns at bottom of view
+M0203+The white finish cars
+M0203+The traveling vehicle with lights off
+M0203+The light automobiles
+M0203+Moving black cars
+M0203+Vehicles departing from our location
+M0203+Dark automobiles traveling
+M0203+Traveling dark cars
+M0203+White cars in transit
+M0203+The motion of the taxi is causing it to move into the adjacent lane
+M0203+The white-colored cars
+M0203+The black vehicle is not staying within its lane boundaries
+M0203+Vehicles executing right turns at top
+M0203+The light-colored car is not remaining inside its own lane
+M0203+Red vehicles proceeding
+M0203+Mass transit bus
+M0203+The red-painted vehicles
+M0203+The taxi's trajectory is outside the boundaries of its designated lane
+M0203+Moving cars
+M0203+Autos traveling toward our view
+M0203+Autos turning right in upper portion
+M0205+Black painted cars
+M0205+Heavy duty truck
+M0205+Dark vehicles proceeding
+M0205+The stopped taxi
+M0205+White vehicle in night conditions
+M0205+The black autos travel path is encroaching on the adjacent lane
+M0205+Cargo transport
+M0205+Red vehicle during nighttime
+M0205+Dark vehicle during nighttime
+M0205+The white automobiles path is encroaching on the adjacent lane
+M0205+The cars making turns
+M0205+Black automobiles in movement
+M0205+Automobile paused at red light
+M0205+The automobiles changing direction
+M0205+Black colored cars
+M0205+Autos located at road boundary
+M0205+White vehicle at night
+M0205+Heavy transport vehicle
+M0205+Cars in light shades
+M0205+Dark automobiles
+M0205+Black car in the dark night
+M0205+The vehicles turning direction
+M0205+Black cars at rest
+M0205+Vehicles with light colors
+M0205+Red cars traveling
+M0205+The red cars
+M0205+Automobiles parked beside street
+M0205+The turning cars
+M0205+This white vehicle is cutting into the lane alongside it
+M0205+Vehicles with dark colors
+M0205+Vehicles positioned at street edge
+M0205+The cab in movement
+M0205+White car in the dark night
+M0205+Black cars not moving
+M0205+Non-moving vehicles
+M0205+The cars changing course
+M0205+The black colored cars
+M0205+Red cars driving
+M0205+The driving taxi
+M0205+The car is seen crossing the lane divider line
+M0205+The black exterior vehicles
+M0205+The dark vehicles
+M0205+The vehicle is crossing over the painted lane divider
+M0205+Cars parked on the roadside
+M0205+Dark-colored cars
+M0205+The taxis trajectory is outside the boundaries of its designated lane
+M0205+Vehicle at rest at red light
+M0205+Taxi invading other lanes
+M0205+Black vehicles in motion
+M0205+The moving hired vehicle
+M0205+Red cars in transit
+M0205+White painted cars
+M0205+Parked automobiles
+M0205+Cars traveling
+M0205+Dark car in the evening
+M0205+White automobile in nighttime
+M0205+Automobile waiting at stoplight
+M0205+The automobiles executing turns
+M0205+White vehicle during nighttime
+M0205+The taxis travel path is encroaching on the space of the adjacent lane
+M0205+The vehicles making turns
+M0205+Red automobile in the dark
+M0205+The automobile is taking up space in two separate lanes at once
+M0205+The movement of the black car is causing it to enter the space of an adjacent lane
+M0205+Moving dark automobiles
+M0205+Non-moving dark vehicles
+M0205+Red automobiles in movement
+M0205+White automobiles in movement
+M0205+Red automobile at night
+M0205+The black-painted vehicles
+M0205+The white cars
+M0205+The taxi at rest
+M0205+Cars at rest
+M0205+The cab at standstill
+M0205+The cabs movement indicates it is cutting into the next lane
+M0205+Automobiles driving
+M0205+The parked cab
+M0205+The movement of this light colored car makes it enter the adjacent lanes area
+M0205+The moving taxi
+M0205+Vehicles proceeding
+M0205+The cars performing turns
+M0205+Moving red automobiles
+M0205+The cab is observed occupying portions of two lanes at the same time
+M0205+Cars in dark shades
+M0205+The taxi not moving
+M0205+Moving white-colored vehicles
+M0205+The red exterior vehicles
+M0205+White car during darkness
+M0205+Dark vehicle at night
+M0205+White car during night hours
+M0205+The black finish cars
+M0205+Still cars
+M0205+The white cars movement is causing it to enter the neighboring lane
+M0205+Red vehicles in motion
+M0205+The cars trajectory extends beyond its lanes markings
+M0205+Stationary black cars
+M0205+The red-toned vehicles
+M0205+The traveling taxi cab
+M0205+Dark car during darkness
+M0205+Traveling red cars
+M0205+The light-toned vehicles
+M0205+The white-painted vehicles
+M0205+Vehicle stopped at red traffic signal
+M0205+Traveling white cars
+M0205+The light colored car is not remaining inside its own lane
+M0205+Light-colored car invading other lanes
+M0205+The white car is failing to stay inside its designated lane
+M0205+Light-toned automobiles
+M0205+Cars stopped along roadway border
+M0205+Black vehicles
+M0205+Red vehicle in night conditions
+M0205+Vehicles in motion
+M0205+The stationary taxi
+M0205+White car intruding into other lanes
+M0205+Freight truck
+M0205+Car waiting at red light
+M0205+This dark colored cars path shows it is cutting into another lane
+M0205+Vehicle stopped at red signal
+M0205+Cars not moving
+M0205+The white vehicles
+M0205+The black automobiles
+M0205+Moving red cars
+M0205+Truck
+M0205+The black cars
+M0205+The vehicles changing direction
+M0205+Light finish vehicles
+M0205+The red-colored cars
+M0205+The moving cab vehicle
+M0205+The taxi in motion
+M0205+Cars invading other lanes
+M0205+Cars positioned on road perimeter
+M0205+Moving white cars
+M0205+Traveling vehicles
+M0205+Red car during darkness
+M0205+Dark vehicles at standstill
+M0205+Moving dark-colored vehicles
+M0205+Black automobile at night
+M0205+Red automobile in nighttime
+M0205+The dark automobiles
+M0205+Black car during night hours
+M0205+Parked dark vehicles
+M0205+Vehicles placed at street margin
+M0205+Cars in movement
+M0205+Black car invading other lanes
+M0205+Auto paused at red stoplight
+M0205+White cars traveling
+M0205+Moving automobiles
+M0205+Stationary cars
+M0205+The path of the light colored auto is encroaching on the nearby lane
+M0205+Red automobiles traveling
+M0205+Cars stationed along road border
+M0205+Black cars in transit
+M0205+The pale shaded vehicle appears to be cutting into the lane next to it
+M0205+Black cars driving
+M0205+Vehicle waiting at traffic signal
+M0205+The red vehicles
+M0205+Dark finish vehicles
+M0205+Heavy cargo vehicle
+M0205+White cars driving
+M0205+Automobiles with light exterior
+M0205+Dark automobile in nighttime
+M0205+The parked taxi cab
+M0205+Car positioned at red traffic signal
+M0205+The traveling taxi service
+M0205+Vehicles situated at roadway edge
+M0205+Dark cars traveling
+M0205+Red car during night hours
+M0205+This automobiles route is encroaching upon the next lane
+M0205+Light-colored cars
+M0205+Cars driving forward
+M0205+Parked black automobiles
+M0205+Dark-toned automobiles
+M0205+The red colored cars
+M0205+The vehicle is observed crossing the lane marker into the next lane
+M0205+Vehicles stationed at road edge
+M0205+The pale shaded auto is simultaneously present in sections of two lanes
+M0205+Light automobiles
+M0205+The stopped cab
+M0205+This cab is crossing the marked line that separates the lanes
+M0205+The traveling cab
+M0205+Automobiles with dark exterior
+M0205+Parked vehicles
+M0205+The red automobiles
+M0205+Red car in the dark night
+M0205+Stopped black cars
+M0205+The white vehicles trajectory is extending beyond the lanemarkings
+M0205+Light-painted cars
+M0205+Car stationed at red traffic light
+M0205+The cars motion is causing it to intrude into the neighboring lanes space
+M0205+The stationary cab vehicle
+M0205+Commercial truck
+M0205+White vehicles
+M0205+The cars executing turns
+M0205+The immobile hired vehicle
+M0205+The immobile taxi cab
+M0205+The white exterior vehicles
+M0205+Inactive automobiles
+M0205+Immobile automobiles
+M0205+Black automobile in the dark
+M0205+White automobile in the dark
+M0205+The white colored cars
+M0205+The driving cab
+M0205+The light painted automobiles
+M0205+The light colored cars travel path goes outside of the lane boundaries
+M0205+The taxi is not keeping to its own lane
+M0205+White vehicles in motion
+M0205+The taxi driving forward
+M0205+Black vehicle in night conditions
+M0205+Inactive dark automobiles
+M0205+The dark-toned vehicles
+M0205+The dark colored cars trajectory is exceeding the painted lane lines
+M0205+Large transport truck
+M0205+White vehicle during dark hours
+M0205+Moving white automobiles
+M0205+This vehicle is driving across the line marking into the adjacent lane
+M0205+Dark-painted cars
+M0205+The white auto is occupying parts of two lanes at once
+M0205+Large delivery vehicle
+M0205+The red finish cars
+M0205+The dark painted automobiles
+M0205+Automobiles positioned beside the road
+M0205+The dark-colored cars
+M0205+The automobiles turning
+M0205+Large cargo vehicle
+M0205+Automobiles in motion
+M0205+White automobile at night
+M0205+Car stopped at red traffic light
+M0205+Immobile dark automobiles
+M0205+The vehicle is failing to stay within its designated lane
+M0205+White automobiles traveling
+M0205+The cars movement shows it is cutting into an adjacent lane
+M0205+Red car in the evening
+M0205+White car in the evening
+M0205+This black automobile is simultaneously occupying parts of two lanes
+M0205+White vehicles proceeding
+M0205+Vehicles at standstill
+M0205+Red vehicle during dark hours
+M0205+Moving red-colored vehicles
+M0205+Stopped cars
+M0205+White colored cars
+M0205+Freight vehicle
+M0205+Cars in transit
+M0205+The red painted automobiles
+M0205+The white finish cars
+M0205+Black vehicle during dark hours
+M0205+The light automobiles
+M0205+Moving black cars
+M0205+Dark automobiles traveling
+M0205+Traveling dark cars
+M0205+White cars in transit
+M0205+The motion of the taxi is causing it to move into the adjacent lane
+M0205+The white-colored cars
+M0205+Still black cars
+M0205+The black vehicle is not staying within its lane boundaries
+M0205+Red vehicle at night
+M0205+Red vehicles proceeding
+M0205+The red-painted vehicles
+M0205+Moving cars
+M0209+Cars positioned on straight road's left area
+M0209+Cars that are moving away from us
+M0209+Vehicles along right edge of straight road
+M0209+Heavy duty truck
+M0209+Vehicles placed near tree area
+M0209+The cars are in the lane for manual payment or inspection
+M0209+Vehicles located on the left boundary of straight road
+M0209+The red automobiles moving in our direction
+M0209+Large capacity passenger vehicle
+M0209+Cargo transport
+M0209+Automobiles on left side of straight road
+M0209+Multi-passenger coach
+M0209+These vehicles are stationary in a queue before the toll plaza
+M0209+The bus is using the electronic toll collection lane
+M0209+The dark vehicles approaching our position
+M0209+The red vehicles approaching our position
+M0209+Cars maintaining contrary directional movement
+M0209+The vehicles on the roadway
+M0209+Red vehicles at standstill
+M0209+The cars are using the electronic toll collection lane
+M0209+The red autos traveling toward our view
+M0209+The black cars driving toward us
+M0209+Autos located at road boundary
+M0209+Illegally parked cars
+M0209+Public transport vehicle
+M0209+Vehicles going away from us
+M0209+Passenger coach vehicle
+M0209+Parked red automobiles
+M0209+Heavy transport vehicle
+M0209+Automobiles situated on the right margin of straight road
+M0209+Black cars at rest
+M0209+The dark cars proceeding toward us
+M0209+The red cars
+M0209+The red-colored cars maintaining contrary directional movement
+M0209+Automobiles parked beside street
+M0209+Vehicles aligned along the left perimeter of straight road
+M0209+Cars occupying the left-hand side of straight road
+M0209+Immobile white automobiles
+M0209+Automobiles moving in opposite direction
+M0209+Vehicles positioned at street edge
+M0209+Black cars not moving
+M0209+The cars are positioned along the road in an unauthorized manner
+M0209+Non-moving vehicles
+M0209+The cars positioned within the roadway boundaries
+M0209+Autos moving in reverse alignment to our path
+M0209+Vehicles stationed near trees
+M0209+Cars heading toward our position
+M0209+The dark vehicles moving in our direction
+M0209+Cars advancing in opposing direction
+M0209+The truck's stationary position indicates it is waiting for inspection
+M0209+The red cars driving toward us
+M0209+Vehicles are stopped on the shoulder of the road
+M0209+The red vehicles coming toward our location
+M0209+Cars parked on the roadside
+M0209+Vehicles approaching our position
+M0209+The red cars proceeding toward us
+M0209+Non-moving white vehicles
+M0209+Red cars not moving
+M0209+Parked automobiles
+M0209+The red vehicles traveling contrary to our course
+M0209+Inactive white automobiles
+M0209+Cars proceeding in contrary direction to ours
+M0209+Cars maintaining equivalent directional movement
+M0209+Vehicles driving alongside our trajectory
+M0209+The red automobiles progressing in opposing directional flow
+M0209+Vehicles traveling contrary to our course
+M0209+Cars waiting for manual inspection
+M0209+White cars not moving
+M0209+The red cars advancing in opposing direction
+M0209+Vehicles moving in reverse direction from us
+M0209+Autos on right part of straight road
+M0209+Non-moving dark vehicles
+M0209+Vehicles traveling on contrary vector to our position
+M0209+The dark vehicles traveling contrary to our course
+M0209+Cars stopped by the trees
+M0209+Cars at rest
+M0209+Cars proceeding in identical direction to ours
+M0209+Cars driving toward us
+M0209+Automobiles moving in our direction
+M0209+Parked red vehicles
+M0209+Bus passing through ETC
+M0209+Still white cars
+M0209+The dark-colored cars proceeding in contrary direction to ours
+M0209+Automobiles approaching our vicinity
+M0209+Automobiles progressing in opposing directional flow
+M0209+Still red cars
+M0209+Vehicles placed beside trees
+M0209+Cars on the left side of the straight road
+M0209+The red exterior vehicles
+M0209+The lineup of cars indicates they are waiting for service
+M0209+Automobiles on right side of straight road
+M0209+Still cars
+M0209+Red cars at rest
+M0209+The automobiles are waiting for an attendant at the toll gate
+M0209+Vehicles moving in our direction
+M0209+Automobiles positioned beside trees
+M0209+The dark-colored cars maintaining contrary directional movement
+M0209+Stationary black cars
+M0209+The red-toned vehicles
+M0209+Vehicles traveling away from our position
+M0209+Vehicles aligned along the right perimeter of straight road
+M0209+Cars heading away from our position
+M0209+Cars stopped along roadway border
+M0209+Cars occupying the right-hand side of straight road
+M0209+Automobiles heading the same way we are
+M0209+Cars proceeding toward us
+M0209+Vehicles journeying along the reverse route direction from us
+M0209+Stopped white cars
+M0209+Freight truck
+M0209+Cars not moving
+M0209+The red automobiles heading opposite way we are
+M0209+The automobiles on the driving path
+M0209+Truck
+M0209+The red-colored cars
+M0209+The vehicles are not in motion and are outside of designated parking
+M0209+The cars on the road
+M0209+The cars' movement indicates they are using the automated toll system
+M0209+Cars positioned on road perimeter
+M0209+Automobiles departing our vicinity
+M0209+Dark vehicles at standstill
+M0209+City transit bus
+M0209+Bus
+M0209+The vehicle is waiting in the non-automated lane
+M0209+The black cars advancing in opposing direction
+M0209+Parked dark vehicles
+M0209+Cars moving in the opposite direction to us
+M0209+Truck waiting for manual inspection
+M0209+Vehicles placed at street margin
+M0209+Multi-seat transport vehicle
+M0209+Stationary cars
+M0209+The black cars moving towards us
+M0209+Cars stationed along road border
+M0209+Automobiles situated on the left margin of straight road
+M0209+The red vehicles
+M0209+The red automobiles approaching our vicinity
+M0209+Public service bus
+M0209+Heavy cargo vehicle
+M0209+Inactive red automobiles
+M0209+This truck is in line waiting for an attendant at the gate
+M0209+These cars are stationary in a location not meant for parking
+M0209+The cars positioned on street
+M0209+Vehicles driving against our trajectory
+M0209+Autos on left part of straight road
+M0209+Vehicles situated at roadway edge
+M0209+Vehicles traveling parallel to our course
+M0209+Automobiles heading opposite way we are
+M0209+Vehicles journeying along the same route direction as we are
+M0209+The dark automobiles approaching our vicinity
+M0209+These vehicles are passing directly through the toll station
+M0209+Cars positioned on straight road's right area
+M0209+Parked black automobiles
+M0209+Parked white automobiles
+M0209+The red colored cars
+M0209+Cars on left section of straight road
+M0209+Vehicles stationed at road edge
+M0209+The cars situated on the driving lane
+M0209+The dark autos moving in reverse alignment to our path
+M0209+The black cars heading toward our position
+M0209+Parked vehicles
+M0209+The red automobiles
+M0209+The automobiles do not slow down suggesting they have an ETC pass
+M0209+The red cars moving in the opposite direction to us
+M0209+Stopped black cars
+M0209+The red vehicles driving against our trajectory
+M0209+The black automobiles progressing in opposing directional flow
+M0209+The black autos traveling toward our view
+M0209+These vehicles are moving through the automated gate without stopping
+M0209+Vehicles on straight road's left portion
+M0209+The automobiles occupying the driving surface
+M0209+Parked white vehicles
+M0209+Commercial truck
+M0209+Vehicles traveling on identical vector as our position
+M0209+Large passenger vehicle
+M0209+The vehicles established on the road zone
+M0209+White vehicles at standstill
+M0209+Inactive automobiles
+M0209+Immobile automobiles
+M0209+Cars positioned by tree side
+M0209+The cars are observed in the lane for electronic payments
+M0209+The black cars moving in the opposite direction to us
+M0209+The cars are stopped in a line at the toll booth
+M0209+The black vehicles journeying along the reverse route direction from us
+M0209+Non-moving red vehicles
+M0209+Autos located by trees
+M0209+Cars parked by the trees
+M0209+Cars driving away from us
+M0209+White cars at rest
+M0209+The red cars heading toward our position
+M0209+The bus maintains its speed through the toll plaza
+M0209+The red vehicles traveling on contrary vector to our position
+M0209+The autos located on road area
+M0209+Stationary white cars
+M0209+Immobile red automobiles
+M0209+The bus is moving through the toll station's electronic gate
+M0209+Inactive dark automobiles
+M0209+The red vehicles moving in our direction
+M0209+The dark vehicles traveling on contrary vector to our position
+M0209+Automobiles progressing in the same directional flow
+M0209+Public transportation bus
+M0209+These cars are occupying the side of the road in a no-parking zone
+M0209+Cars proceeding away from us
+M0209+Large transport truck
+M0209+The black vehicles driving against our trajectory
+M0209+Vehicles located on the right boundary of straight road
+M0209+Cars on right section of straight road
+M0209+Vehicles coming toward our location
+M0209+The flow of these cars is uninterrupted through the toll gate
+M0209+The red autos moving in reverse alignment to our path
+M0209+Cars on the right side of the straight road
+M0209+The vehicles present on the road infrastructure
+M0209+Vehicles parked adjacent to trees
+M0209+The truck is stopped in the queue for the inspection station
+M0209+Large delivery vehicle
+M0209+Cars passing through ETC
+M0209+The red finish cars
+M0209+The vehicles placed on the road surface
+M0209+Automobiles positioned beside the road
+M0209+Cars moving in the same direction as us
+M0209+The bus is driving through the automated toll gate without stopping
+M0209+Large cargo vehicle
+M0209+The red vehicles journeying along the reverse route direction from us
+M0209+Cars positioned close to trees
+M0209+Immobile dark automobiles
+M0209+This truck appears to be waiting its turn for manual service
+M0209+Cars advancing in our matching direction
+M0209+These vehicles are in a queue which suggests a manual checkpoint
+M0209+Vehicles at standstill
+M0209+Cars that are moving towards us
+M0209+The red-colored cars proceeding in contrary direction to ours
+M0209+Autos traveling away from our view
+M0209+The automobiles appear to be improperly left on the roadside
+M0209+Vehicles on straight road's right portion
+M0209+The vehicle is in the ETC lane so it does not need to stop
+M0209+Stopped cars
+M0209+These autos seem to be parked where they may block traffic
+M0209+The red cars moving towards us
+M0209+Freight vehicle
+M0209+Vehicles coming our way
+M0209+The red painted automobiles
+M0209+The black vehicles coming toward our location
+M0209+Stopped red cars
+M0209+This bus does not stop at the toll booth indicating an ETC pass
+M0209+Automobiles stationed near tree line
+M0209+Vehicles departing from our location
+M0209+The dark automobiles moving in our direction
+M0209+Stationary red cars
+M0209+This vehicle is in the lane for manual toll payment or checks
+M0209+Still black cars
+M0209+Vehicles along left edge of straight road
+M0209+This bus appears to be equipped with an electronic toll device
+M0209+Mass transit bus
+M0209+The red-painted vehicles
+M0209+The red vehicles coming our way
+M0209+The black automobiles heading opposite way we are
+M0209+These automobiles are waiting to be checked by a person
+M0209+Autos moving in alignment with our path
+M0209+The truck is in a lineup of vehicles at the checkpoint
+M0209+The black vehicles coming our way
+M0209+Autos traveling toward our view
+M0403+Vehicles taking right turns in top section
+M0403+Cars traveling in left-to-right direction
+M0403+Heavy duty truck
+M0403+Cars performing right turns in top area
+M0403+Automobiles making right turns above
+M0403+The stopped taxi
+M0403+The white vehicles driving against our trajectory
+M0403+Vehicles traveling from left to right
+M0403+Large capacity passenger vehicle
+M0403+Cargo transport
+M0403+Multi-passenger coach
+M0403+Autos traveling leftward to rightward
+M0403+Cars maintaining contrary directional movement
+M0403+The vehicles on the roadway
+M0403+Red vehicles at standstill
+M0403+Automobile paused at red light
+M0403+Cars driving from right to left
+M0403+Automobiles making right turns at bottom
+M0403+Public transport vehicle
+M0403+Passenger coach vehicle
+M0403+Parked red automobiles
+M0403+Heavy transport vehicle
+M0403+Black cars at rest
+M0403+The truck appears to be stuck in a traffic jam
+M0403+Autos traveling rightward to leftward
+M0403+The red cars
+M0403+Automobiles proceeding right to left
+M0403+Immobile white automobiles
+M0403+The cab in movement
+M0403+Black cars not moving
+M0403+Non-moving vehicles
+M0403+The cars positioned within the roadway boundaries
+M0403+Autos moving in reverse alignment to our path
+M0403+The black colored cars
+M0403+Vehicles turning right at bottom edge
+M0403+Cars heading toward our position
+M0403+The driving taxi
+M0403+Forward movement of the bus is blocked by traffic
+M0403+The black exterior vehicles
+M0403+Cars advancing in opposing direction
+M0403+The dark vehicles
+M0403+The intersection is blocked by a high density of vehicles
+M0403+This large vehicle is in a bumper to bumper situation
+M0403+The white-colored cars maintaining contrary directional movement
+M0403+Vehicles approaching our position
+M0403+The bus is part of a dense cluster of vehicles on the road
+M0403+Vehicle at rest at red light
+M0403+Non-moving white vehicles
+M0403+The moving hired vehicle
+M0403+Red cars not moving
+M0403+Parked automobiles
+M0403+Bus stuck in traffic jam
+M0403+Cars traveling
+M0403+The white vehicles traveling contrary to our course
+M0403+Inactive white automobiles
+M0403+Automobile waiting at stoplight
+M0403+Cars proceeding in contrary direction to ours
+M0403+The white automobiles progressing in opposing directional flow
+M0403+Vehicles traveling contrary to our course
+M0403+White cars not moving
+M0403+Non-moving dark vehicles
+M0403+There is a gridlock forming at the intersection
+M0403+Vehicles traveling on contrary vector to our position
+M0403+The black-painted vehicles
+M0403+The trucks forward progress is impeded by heavy traffic
+M0403+The white cars
+M0403+The taxi at rest
+M0403+Cars performing left turns in top area
+M0403+The dark vehicles traveling contrary to our course
+M0403+Vehicles moving from left toward right
+M0403+Cars at rest
+M0403+Vehicles making right turns at bottom of view
+M0403+The cab at standstill
+M0403+Automobiles driving
+M0403+Automobiles making right turns below
+M0403+The parked cab
+M0403+Cars driving toward us
+M0403+Automobiles moving in our direction
+M0403+Parked red vehicles
+M0403+The moving taxi
+M0403+Vehicles proceeding
+M0403+Still white cars
+M0403+The dark-colored cars proceeding in contrary direction to ours
+M0403+Automobiles approaching our vicinity
+M0403+These black vehicles are in a slow moving line of traffic
+M0403+Cars moving from left side to right side
+M0403+Cars proceeding from right to left
+M0403+Automobiles progressing in opposing directional flow
+M0403+Still red cars
+M0403+The taxi not moving
+M0403+Vehicles driving leftward to rightward
+M0403+The red exterior vehicles
+M0403+Cars turning left in upper view area
+M0403+The black finish cars
+M0403+Autos turning right in lower portion
+M0403+Still cars
+M0403+Vehicles taking right turns in bottom section
+M0403+Red cars at rest
+M0403+Vehicles moving in our direction
+M0403+The dark-colored cars maintaining contrary directional movement
+M0403+The white cars moving in the opposite direction to us
+M0403+Stationary black cars
+M0403+The red-toned vehicles
+M0403+The traveling taxi cab
+M0403+The dark colored vehicles are packed together and not moving
+M0403+The movement of the black autos is restricted by a traffic jam
+M0403+The light-toned vehicles
+M0403+The white-painted vehicles
+M0403+Vehicle stopped at red traffic signal
+M0403+Vehicles going left to right
+M0403+Cars proceeding toward us
+M0403+Vehicles in motion
+M0403+Vehicles journeying along the reverse route direction from us
+M0403+Cars performing right turns in bottom area
+M0403+The stationary taxi
+M0403+Stopped white cars
+M0403+These white vehicles are in a slow moving line of traffic
+M0403+Vehicles taking left turns in top section
+M0403+Freight truck
+M0403+Car waiting at red light
+M0403+Vehicle stopped at red signal
+M0403+Cars not moving
+M0403+The white vehicles
+M0403+The black automobiles
+M0403+Autos turning left in upper portion
+M0403+The white automobiles heading opposite way we are
+M0403+The automobiles on the driving path
+M0403+Truck
+M0403+The black cars
+M0403+Cars turning left on the top side of the view
+M0403+Automobiles making right turns at top
+M0403+The red-colored cars
+M0403+Vehicles driving rightward to leftward
+M0403+The moving cab vehicle
+M0403+The taxi in motion
+M0403+The cars on the road
+M0403+Traveling vehicles
+M0403+Cars making left-hand turns at top
+M0403+Dark vehicles at standstill
+M0403+City transit bus
+M0403+Bus
+M0403+This bus is stuck in a slow moving line of vehicles
+M0403+The light autos moving in reverse alignment to our path
+M0403+The dark automobiles
+M0403+The black cars advancing in opposing direction
+M0403+The white-colored cars proceeding in contrary direction to ours
+M0403+Parked dark vehicles
+M0403+Cars moving in the opposite direction to us
+M0403+Cars in movement
+M0403+Auto paused at red stoplight
+M0403+Multi-seat transport vehicle
+M0403+Moving automobiles
+M0403+Stationary cars
+M0403+Cars are packed together and unable to clear the intersection
+M0403+Vehicles are stuck in a jam at the intersection
+M0403+The intersection is experiencing heavy traffic congestion
+M0403+Vehicle waiting at traffic signal
+M0403+The red vehicles
+M0403+Public service bus
+M0403+Heavy cargo vehicle
+M0403+Inactive red automobiles
+M0403+The white cars are in a dense traffic jam
+M0403+Cars turning right in lower view area
+M0403+The cars positioned on street
+M0403+Vehicles driving against our trajectory
+M0403+Automobiles making left turns at top
+M0403+Automobiles moving right to left
+M0403+Cars making right-hand turns at top
+M0403+The black cars are in a dense traffic jam
+M0403+The parked taxi cab
+M0403+Car positioned at red traffic signal
+M0403+The traveling taxi service
+M0403+Cars driving from left to right
+M0403+Automobiles heading opposite way we are
+M0403+Automobiles moving left to right
+M0403+The high density of white cars indicates they are in a gridlock
+M0403+The white vehicles journeying along the reverse route direction from us
+M0403+Cars turning right in upper view area
+M0403+Vehicles making left turns at top of view
+M0403+These white cars are caught in heavy traffic congestion
+M0403+Traffic jam at intersection
+M0403+White cars stuck in traffic jam
+M0403+This truck is part of a dense group of stopped vehicles
+M0403+Cars driving forward
+M0403+These black cars are caught in heavy traffic congestion
+M0403+Parked black automobiles
+M0403+Parked white automobiles
+M0403+The red colored cars
+M0403+The cars situated on the driving lane
+M0403+The white vehicles traveling on contrary vector to our position
+M0403+The stopped cab
+M0403+The dark autos moving in reverse alignment to our path
+M0403+The traveling cab
+M0403+Vehicles executing right turns at bottom
+M0403+Parked vehicles
+M0403+The red automobiles
+M0403+Stopped black cars
+M0403+Cars making right-hand turns at bottom
+M0403+The black automobiles progressing in opposing directional flow
+M0403+Cars traveling in right-to-left direction
+M0403+Car stationed at red traffic light
+M0403+The automobiles occupying the driving surface
+M0403+Parked white vehicles
+M0403+The stationary cab vehicle
+M0403+Commercial truck
+M0403+Automobiles proceeding left to right
+M0403+The bus is caught in heavy traffic and is not moving
+M0403+Large passenger vehicle
+M0403+Vehicles making right turns at top of view
+M0403+The flow of traffic is stopped at this road crossing
+M0403+Vehicles turning right at top edge
+M0403+The immobile hired vehicle
+M0403+The high density of black cars indicates they are in a gridlock
+M0403+The immobile taxi cab
+M0403+Vehicles executing left turns at top
+M0403+Vehicles are congested at the point where the roads cross
+M0403+The white exterior vehicles
+M0403+The vehicles established on the road zone
+M0403+White vehicles at standstill
+M0403+Inactive automobiles
+M0403+Immobile automobiles
+M0403+The black cars moving in the opposite direction to us
+M0403+The black vehicles journeying along the reverse route direction from us
+M0403+Non-moving red vehicles
+M0403+The white automobiles
+M0403+White cars at rest
+M0403+The white colored cars
+M0403+The driving cab
+M0403+The light painted automobiles
+M0403+The autos located on road area
+M0403+Stationary white cars
+M0403+Immobile red automobiles
+M0403+Truck stuck in traffic jam
+M0403+The taxi driving forward
+M0403+Cars proceeding from left to right
+M0403+The black cars are observed in a bumper to bumper situation
+M0403+Inactive dark automobiles
+M0403+The white cars advancing in opposing direction
+M0403+The dark vehicles traveling on contrary vector to our position
+M0403+The dark-toned vehicles
+M0403+Public transportation bus
+M0403+Large transport truck
+M0403+The black vehicles driving against our trajectory
+M0403+Vehicles coming toward our location
+M0403+The vehicles present on the road infrastructure
+M0403+Large delivery vehicle
+M0403+The red finish cars
+M0403+The vehicles placed on the road surface
+M0403+Cars turning right on the bottom side of the view
+M0403+The truck is in a gridlock with other vehicles
+M0403+The dark painted automobiles
+M0403+This bus appears to be in a traffic jam
+M0403+Cars moving from right side to left side
+M0403+The dark-colored cars
+M0403+Black cars stuck in traffic jam
+M0403+Cars turning right on the top side of the view
+M0403+Large cargo vehicle
+M0403+Vehicles going right to left
+M0403+The white cars are observed in a bumper to bumper situation
+M0403+Automobiles in motion
+M0403+Car stopped at red traffic light
+M0403+Immobile dark automobiles
+M0403+This truck is caught in a slow moving line of traffic
+M0403+Vehicles at standstill
+M0403+Vehicles moving from right toward left
+M0403+The bus is observed in a gridlock situation
+M0403+Cars that are moving towards us
+M0403+The movement of the white autos is restricted by a traffic jam
+M0403+Stopped cars
+M0403+The surrounding traffic congestion is preventing the bus from moving
+M0403+Freight vehicle
+M0403+Cars in transit
+M0403+Vehicles coming our way
+M0403+The red painted automobiles
+M0403+The white finish cars
+M0403+The light colored vehicles are packed together and not moving
+M0403+Stopped red cars
+M0403+The light automobiles
+M0403+Stationary red cars
+M0403+The white-colored cars
+M0403+Still black cars
+M0403+Vehicles executing right turns at top
+M0403+Vehicles traveling from right to left
+M0403+Mass transit bus
+M0403+The red-painted vehicles
+M0403+Automobiles making left turns above
+M0403+The black automobiles heading opposite way we are
+M0403+Moving cars
+M0403+Vehicles turning left at top edge
+M0403+Autos traveling toward our view
+M0403+Autos turning right in upper portion
+M0403+The truck is unable to move due to traffic congestion
+M0701+Cars traveling in left-to-right direction
+M0701+Heavy duty truck
+M0701+Automobiles proceeding from bottom to top in viewing field
+M0701+Vehicles traveling from left to right
+M0701+Large capacity passenger vehicle
+M0701+Cargo transport
+M0701+Stopped blue cars
+M0701+Multi-passenger coach
+M0701+Vehicles driving from upper to lower portion in view
+M0701+Autos traveling leftward to rightward
+M0701+Vehicles executing left turns at bottom
+M0701+The vehicles on the roadway
+M0701+Red vehicles at standstill
+M0701+Vehicles taking left turns on left section
+M0701+Cars driving from right to left
+M0701+Cars traveling upward from bottom in field of view
+M0701+Automobiles making right turns at bottom
+M0701+Public transport vehicle
+M0701+Passenger coach vehicle
+M0701+Parked red automobiles
+M0701+Heavy transport vehicle
+M0701+The truck appears to be stuck in a traffic jam
+M0701+The red cars are in a dense traffic jam
+M0701+Blue vehicles at standstill
+M0701+The movement of the red autos is restricted by a traffic jam
+M0701+Vehicles executing right turns on right
+M0701+Red cars traveling
+M0701+Autos traveling rightward to leftward
+M0701+The red cars
+M0701+Automobiles proceeding right to left
+M0701+Immobile white automobiles
+M0701+The cars positioned within the roadway boundaries
+M0701+Vehicles turning right at bottom edge
+M0701+Red cars driving
+M0701+Forward movement of the bus is blocked by traffic
+M0701+The intersection is blocked by a high density of vehicles
+M0701+Cars turning left on the left side of the view
+M0701+This large vehicle is in a bumper to bumper situation
+M0701+Immobile blue automobiles
+M0701+Automobiles making left turns leftward
+M0701+The bus is part of a dense cluster of vehicles on the road
+M0701+Red cars stuck in traffic jam
+M0701+Cars performing left turns in bottom area
+M0701+Non-moving white vehicles
+M0701+Red cars not moving
+M0701+Red cars in transit
+M0701+The blue finish cars
+M0701+Bus stuck in traffic jam
+M0701+Inactive white automobiles
+M0701+The blue automobiles
+M0701+Vehicles executing left turns on right
+M0701+Cars making left-hand turns on left
+M0701+White cars not moving
+M0701+Automobiles moving from lower to upper in field of view
+M0701+Red automobiles in movement
+M0701+There is a gridlock forming at the intersection
+M0701+The trucks forward progress is impeded by heavy traffic
+M0701+The white cars
+M0701+Cars moving from bottom section to top in field of view
+M0701+Vehicles moving from left toward right
+M0701+Vehicles making right turns at bottom of view
+M0701+Automobiles making left turns at bottom
+M0701+Automobiles making right turns below
+M0701+Vehicles taking left turns in bottom section
+M0701+Parked red vehicles
+M0701+Cars driving from top to bottom in the field of view
+M0701+Cars turning left on the bottom side of the view
+M0701+Moving red automobiles
+M0701+Still white cars
+M0701+Cars traveling downward from top in field of view
+M0701+Autos turning right in right portion
+M0701+Cars moving from left side to right side
+M0701+Cars proceeding from right to left
+M0701+The blue cars
+M0701+Still red cars
+M0701+Inactive blue automobiles
+M0701+Vehicles driving leftward to rightward
+M0701+The red exterior vehicles
+M0701+Autos turning right in lower portion
+M0701+Vehicles taking right turns in bottom section
+M0701+Red cars at rest
+M0701+Red vehicles in motion
+M0701+Vehicles making left turns on left side
+M0701+Cars driving from bottom to top in the field of view
+M0701+Blue automobiles in movement
+M0701+The red-toned vehicles
+M0701+Traveling red cars
+M0701+Automobiles making left turns at left
+M0701+The light-toned vehicles
+M0701+The white-painted vehicles
+M0701+Cars turning right in right view area
+M0701+Cars moving from top section to bottom in field of view
+M0701+Autos turning left in left portion
+M0701+Cars making left-hand turns at bottom
+M0701+Vehicles traveling from bottom to top in view
+M0701+The blue painted automobiles
+M0701+Vehicles going left to right
+M0701+Blue cars not moving
+M0701+Stationary blue cars
+M0701+Vehicles turning left at left edge
+M0701+Moving blue-colored vehicles
+M0701+Cars performing right turns in bottom area
+M0701+The blue-toned vehicles
+M0701+Stopped white cars
+M0701+These white vehicles are in a slow moving line of traffic
+M0701+Freight truck
+M0701+Cars performing right turns in right area
+M0701+The white vehicles
+M0701+Moving red cars
+M0701+The automobiles on the driving path
+M0701+Truck
+M0701+Automobiles making left turns rightward
+M0701+The red-colored cars
+M0701+Cars making right-hand turns on right
+M0701+Vehicles driving rightward to leftward
+M0701+The cars on the road
+M0701+Automobiles making right turns rightward
+M0701+City transit bus
+M0701+Bus
+M0701+This bus is stuck in a slow moving line of vehicles
+M0701+Vehicles going from top downward in field of view
+M0701+The red colored vehicles are packed together and not moving
+M0701+Multi-seat transport vehicle
+M0701+Cars are packed together and unable to clear the intersection
+M0701+Vehicles are stuck in a jam at the intersection
+M0701+The intersection is experiencing heavy traffic congestion
+M0701+Red automobiles traveling
+M0701+Vehicles executing left turns on left
+M0701+Automobiles making left turns at right
+M0701+The red vehicles
+M0701+Public service bus
+M0701+Heavy cargo vehicle
+M0701+Inactive red automobiles
+M0701+Vehicles driving from lower to upper portion in view
+M0701+The white cars are in a dense traffic jam
+M0701+Cars turning right in lower view area
+M0701+The cars positioned on street
+M0701+Automobiles moving right to left
+M0701+Vehicles turning left at bottom edge
+M0701+Cars driving from left to right
+M0701+Automobiles moving left to right
+M0701+The high density of white cars indicates they are in a gridlock
+M0701+These white cars are caught in heavy traffic congestion
+M0701+Traffic jam at intersection
+M0701+White cars stuck in traffic jam
+M0701+This truck is part of a dense group of stopped vehicles
+M0701+Blue vehicles in motion
+M0701+Parked white automobiles
+M0701+Non-moving blue vehicles
+M0701+Vehicles moving from lower area to top in view
+M0701+Blue cars in transit
+M0701+The red colored cars
+M0701+The cars situated on the driving lane
+M0701+Cars performing left turns in left area
+M0701+Vehicles executing right turns at bottom
+M0701+The red automobiles
+M0701+The blue-painted vehicles
+M0701+Cars making right-hand turns at bottom
+M0701+Blue cars traveling
+M0701+Cars turning left in lower view area
+M0701+Cars traveling in right-to-left direction
+M0701+Vehicles making right turns on right side
+M0701+The automobiles occupying the driving surface
+M0701+Parked white vehicles
+M0701+Traveling blue cars
+M0701+Commercial truck
+M0701+Blue cars driving
+M0701+Automobiles proceeding left to right
+M0701+The bus is caught in heavy traffic and is not moving
+M0701+Vehicles turning left at right edge
+M0701+Large passenger vehicle
+M0701+Vehicles turning right at right edge
+M0701+Cars turning left in left view area
+M0701+The flow of traffic is stopped at this road crossing
+M0701+The blue-colored cars
+M0701+Parked blue vehicles
+M0701+The blue vehicles
+M0701+Vehicles are congested at the point where the roads cross
+M0701+The white exterior vehicles
+M0701+The vehicles established on the road zone
+M0701+White vehicles at standstill
+M0701+Vehicles taking right turns on right section
+M0701+Vehicles making left turns on right side
+M0701+Vehicles taking left turns on right section
+M0701+These red vehicles are in a slow moving line of traffic
+M0701+Non-moving red vehicles
+M0701+Blue automobiles traveling
+M0701+The white automobiles
+M0701+White cars at rest
+M0701+The white colored cars
+M0701+Automobiles proceeding from top to bottom in viewing field
+M0701+The light painted automobiles
+M0701+Automobiles moving from upper to lower in field of view
+M0701+The autos located on road area
+M0701+Stationary white cars
+M0701+Immobile red automobiles
+M0701+These red cars are caught in heavy traffic congestion
+M0701+Truck stuck in traffic jam
+M0701+Vehicles moving from upper area to bottom in view
+M0701+Cars proceeding from left to right
+M0701+Blue cars at rest
+M0701+Public transportation bus
+M0701+The red cars are observed in a bumper to bumper situation
+M0701+Large transport truck
+M0701+The vehicles present on the road infrastructure
+M0701+Cars turning right on the right side of the view
+M0701+Large delivery vehicle
+M0701+Still blue cars
+M0701+The red finish cars
+M0701+The vehicles placed on the road surface
+M0701+Cars turning right on the bottom side of the view
+M0701+The truck is in a gridlock with other vehicles
+M0701+Moving blue cars
+M0701+This bus appears to be in a traffic jam
+M0701+Cars moving from right side to left side
+M0701+The blue exterior vehicles
+M0701+Large cargo vehicle
+M0701+Vehicles going right to left
+M0701+The white cars are observed in a bumper to bumper situation
+M0701+The high density of red cars indicates they are in a gridlock
+M0701+Automobiles making left turns below
+M0701+This truck is caught in a slow moving line of traffic
+M0701+Vehicles going from bottom upward in field of view
+M0701+Vehicles traveling from top to bottom in view
+M0701+Cars turning left on the right side of the view
+M0701+Autos turning left in lower portion
+M0701+Cars making left-hand turns on right
+M0701+Vehicles moving from right toward left
+M0701+The bus is observed in a gridlock situation
+M0701+The movement of the white autos is restricted by a traffic jam
+M0701+Autos turning left in right portion
+M0701+Moving red-colored vehicles
+M0701+The surrounding traffic congestion is preventing the bus from moving
+M0701+Blue vehicles proceeding
+M0701+Freight vehicle
+M0701+The red painted automobiles
+M0701+Vehicles making left turns at bottom of view
+M0701+The white finish cars
+M0701+The light colored vehicles are packed together and not moving
+M0701+Stopped red cars
+M0701+The light automobiles
+M0701+Cars turning left in right view area
+M0701+Cars proceeding from top to bottom in viewing area
+M0701+Cars performing left turns in right area
+M0701+Moving blue automobiles
+M0701+Stationary red cars
+M0701+The white-colored cars
+M0701+The blue colored cars
+M0701+Autos traveling from higher to lower in view
+M0701+Parked blue automobiles
+M0701+Vehicles traveling from right to left
+M0701+Red vehicles proceeding
+M0701+Cars proceeding from bottom to top in viewing area
+M0701+Mass transit bus
+M0701+The red-painted vehicles
+M0701+Automobiles making right turns at right
+M0701+Autos traveling from lower to higher in view
+M0701+The truck is unable to move due to traffic congestion
+M0801+Automobiles positioned on walkway
+M0801+Black painted cars
+M0801+Cars that are moving away from us
+M0801+Heavy duty truck
+M0801+Dark vehicles proceeding
+M0801+Cars parked on the sidewalk
+M0801+The stopped taxi
+M0801+The black autos travel path is encroaching on the adjacent lane
+M0801+Large capacity passenger vehicle
+M0801+Cargo transport
+M0801+Cars stopped on pavement for pedestrians
+M0801+Multi-passenger coach
+M0801+The dark vehicles approaching our position
+M0801+This taxi is part of a dense group of stopped vehicles
+M0801+The white automobiles path is encroaching on the adjacent lane
+M0801+The cars making turns
+M0801+Black automobiles in movement
+M0801+The vehicles on the roadway
+M0801+Automobile paused at red light
+M0801+The automobiles changing direction
+M0801+Black colored cars
+M0801+The black cars driving toward us
+M0801+Public transport vehicle
+M0801+Vehicles going away from us
+M0801+Passenger coach vehicle
+M0801+Heavy transport vehicle
+M0801+Cars in light shades
+M0801+Dark automobiles
+M0801+The vehicles turning direction
+M0801+Black cars at rest
+M0801+Vehicles with light colors
+M0801+The white autos traveling toward our view
+M0801+The dark cars proceeding toward us
+M0801+The turning cars
+M0801+This white vehicle is cutting into the lane alongside it
+M0801+Immobile white automobiles
+M0801+Vehicles with dark colors
+M0801+Automobiles moving in opposite direction
+M0801+The cab in movement
+M0801+Black cars not moving
+M0801+Non-moving vehicles
+M0801+The cars positioned within the roadway boundaries
+M0801+The cars changing course
+M0801+The black colored cars
+M0801+Cars heading toward our position
+M0801+The driving taxi
+M0801+The car is seen crossing the lane divider line
+M0801+The black exterior vehicles
+M0801+The dark vehicles moving in our direction
+M0801+The dark vehicles
+M0801+The intersection is blocked by a high density of vehicles
+M0801+The taxi appears to be stuck in a traffic jam
+M0801+The vehicle is crossing over the painted lane divider
+M0801+The light automobiles approaching our vicinity
+M0801+Dark-colored cars
+M0801+Vehicles approaching our position
+M0801+The taxis trajectory is outside the boundaries of its designated lane
+M0801+Vehicle at rest at red light
+M0801+Vehicles placed on footpath
+M0801+Taxi invading other lanes
+M0801+Black vehicles in motion
+M0801+Non-moving white vehicles
+M0801+The moving hired vehicle
+M0801+White painted cars
+M0801+Parked automobiles
+M0801+Cars traveling
+M0801+Inactive white automobiles
+M0801+Automobile waiting at stoplight
+M0801+The automobiles executing turns
+M0801+The taxis travel path is encroaching on the space of the adjacent lane
+M0801+The white vehicles coming toward our location
+M0801+The vehicles making turns
+M0801+Autos located on pedestrian walkway
+M0801+The automobile is taking up space in two separate lanes at once
+M0801+White cars not moving
+M0801+Vehicles moving in reverse direction from us
+M0801+The movement of the black car is causing it to enter the space of an adjacent lane
+M0801+Moving dark automobiles
+M0801+Non-moving dark vehicles
+M0801+Vehicles stationed on pedestrian path
+M0801+White automobiles in movement
+M0801+There is a gridlock forming at the intersection
+M0801+The black-painted vehicles
+M0801+The white cars
+M0801+The black cars that are moving towards us
+M0801+The taxi at rest
+M0801+Cars at rest
+M0801+The cab at standstill
+M0801+The cabs movement indicates it is cutting into the next lane
+M0801+Automobiles driving
+M0801+The parked cab
+M0801+Cars driving toward us
+M0801+Automobiles moving in our direction
+M0801+The moving taxi
+M0801+Vehicles proceeding
+M0801+The cars performing turns
+M0801+Cars stationed on sidewalk zone
+M0801+The cab is observed occupying portions of two lanes at the same time
+M0801+Still white cars
+M0801+Cars in dark shades
+M0801+Automobiles approaching our vicinity
+M0801+These black vehicles are in a slow moving line of traffic
+M0801+The taxi not moving
+M0801+Moving white-colored vehicles
+M0801+Automobiles parked on walking path
+M0801+The black finish cars
+M0801+Still cars
+M0801+The white cars movement is causing it to enter the neighboring lane
+M0801+The taxi is in a gridlock with other vehicles
+M0801+The cars trajectory extends beyond its lanes markings
+M0801+Vehicles moving in our direction
+M0801+Stationary black cars
+M0801+The traveling taxi cab
+M0801+The dark colored vehicles are packed together and not moving
+M0801+The white cars heading toward our position
+M0801+Vehicles traveling away from our position
+M0801+The movement of the black autos is restricted by a traffic jam
+M0801+The light-toned vehicles
+M0801+The white-painted vehicles
+M0801+This cab is caught in a slow moving line of traffic
+M0801+Vehicle stopped at red traffic signal
+M0801+Traveling white cars
+M0801+Cars heading away from our position
+M0801+The white car is failing to stay inside its designated lane
+M0801+The white vehicles moving in our direction
+M0801+Light-toned automobiles
+M0801+The taxis forward progress is impeded by heavy traffic
+M0801+Black vehicles
+M0801+The white automobiles moving in our direction
+M0801+Cars proceeding toward us
+M0801+Vehicles in motion
+M0801+The stationary taxi
+M0801+Stopped white cars
+M0801+These white vehicles are in a slow moving line of traffic
+M0801+White car intruding into other lanes
+M0801+Freight truck
+M0801+Car waiting at red light
+M0801+This dark colored cars path shows it is cutting into another lane
+M0801+Vehicle stopped at red signal
+M0801+Cars not moving
+M0801+The white vehicles
+M0801+The black automobiles
+M0801+The automobiles on the driving path
+M0801+Truck
+M0801+The black cars
+M0801+The vehicles changing direction
+M0801+Light finish vehicles
+M0801+The moving cab vehicle
+M0801+The taxi in motion
+M0801+The cars on the road
+M0801+Cars invading other lanes
+M0801+Moving white cars
+M0801+Automobiles departing our vicinity
+M0801+Traveling vehicles
+M0801+Dark vehicles at standstill
+M0801+Moving dark-colored vehicles
+M0801+City transit bus
+M0801+Bus
+M0801+The dark automobiles
+M0801+Parked dark vehicles
+M0801+The white vehicles approaching our position
+M0801+Cars in movement
+M0801+Black car invading other lanes
+M0801+Auto paused at red stoplight
+M0801+Multi-seat transport vehicle
+M0801+White cars traveling
+M0801+Moving automobiles
+M0801+Stationary cars
+M0801+The white cars driving toward us
+M0801+Cars are packed together and unable to clear the intersection
+M0801+Vehicles are stuck in a jam at the intersection
+M0801+The intersection is experiencing heavy traffic congestion
+M0801+Black cars in transit
+M0801+Black cars driving
+M0801+Vehicle waiting at traffic signal
+M0801+Dark finish vehicles
+M0801+Public service bus
+M0801+Heavy cargo vehicle
+M0801+White cars driving
+M0801+The white cars are in a dense traffic jam
+M0801+The cars positioned on street
+M0801+Automobiles with light exterior
+M0801+The black cars are in a dense traffic jam
+M0801+The parked taxi cab
+M0801+Car positioned at red traffic signal
+M0801+The traveling taxi service
+M0801+The high density of white cars indicates they are in a gridlock
+M0801+Dark cars traveling
+M0801+The dark automobiles approaching our vicinity
+M0801+This cab is in a bumper to bumper situation
+M0801+This automobiles route is encroaching upon the next lane
+M0801+These white cars are caught in heavy traffic congestion
+M0801+Traffic jam at intersection
+M0801+White cars stuck in traffic jam
+M0801+Light-colored cars
+M0801+Cars driving forward
+M0801+These black cars are caught in heavy traffic congestion
+M0801+Parked black automobiles
+M0801+Parked white automobiles
+M0801+Dark-toned automobiles
+M0801+The vehicle is observed crossing the lane marker into the next lane
+M0801+The cars situated on the driving lane
+M0801+Light automobiles
+M0801+The stopped cab
+M0801+The black cars heading toward our position
+M0801+This cab is crossing the marked line that separates the lanes
+M0801+The traveling cab
+M0801+Automobiles with dark exterior
+M0801+Parked vehicles
+M0801+Stopped black cars
+M0801+The white vehicles trajectory is extending beyond the lanemarkings
+M0801+The black autos traveling toward our view
+M0801+Light-painted cars
+M0801+Car stationed at red traffic light
+M0801+The automobiles occupying the driving surface
+M0801+Parked white vehicles
+M0801+The cars motion is causing it to intrude into the neighboring lanes space
+M0801+The stationary cab vehicle
+M0801+Commercial truck
+M0801+White vehicles
+M0801+Large passenger vehicle
+M0801+The flow of traffic is stopped at this road crossing
+M0801+The cars executing turns
+M0801+The immobile hired vehicle
+M0801+The high density of black cars indicates they are in a gridlock
+M0801+The immobile taxi cab
+M0801+Vehicles are congested at the point where the roads cross
+M0801+The white exterior vehicles
+M0801+The vehicles established on the road zone
+M0801+White vehicles at standstill
+M0801+Inactive automobiles
+M0801+Immobile automobiles
+M0801+Taxi stuck in traffic jam
+M0801+The white automobiles
+M0801+Cars driving away from us
+M0801+White cars at rest
+M0801+The white colored cars
+M0801+The white vehicles coming our way
+M0801+The driving cab
+M0801+The light painted automobiles
+M0801+The taxi is not keeping to its own lane
+M0801+The autos located on road area
+M0801+Stationary white cars
+M0801+White vehicles in motion
+M0801+The taxi driving forward
+M0801+The black cars are observed in a bumper to bumper situation
+M0801+Inactive dark automobiles
+M0801+The dark-toned vehicles
+M0801+The dark colored cars trajectory is exceeding the painted lane lines
+M0801+Public transportation bus
+M0801+Cars proceeding away from us
+M0801+Large transport truck
+M0801+Moving white automobiles
+M0801+Vehicles coming toward our location
+M0801+The vehicles present on the road infrastructure
+M0801+Vehicles situated on pedestrian space
+M0801+Dark-painted cars
+M0801+The white auto is occupying parts of two lanes at once
+M0801+Large delivery vehicle
+M0801+The vehicles placed on the road surface
+M0801+The dark painted automobiles
+M0801+The light cars proceeding toward us
+M0801+The dark-colored cars
+M0801+Black cars stuck in traffic jam
+M0801+The automobiles turning
+M0801+Large cargo vehicle
+M0801+The white cars are observed in a bumper to bumper situation
+M0801+Automobiles in motion
+M0801+Car stopped at red traffic light
+M0801+Immobile dark automobiles
+M0801+The vehicle is failing to stay within its designated lane
+M0801+White automobiles traveling
+M0801+The cars movement shows it is cutting into an adjacent lane
+M0801+Vehicles positioned on pathway for pedestrians
+M0801+This black automobile is simultaneously occupying parts of two lanes
+M0801+White vehicles proceeding
+M0801+Vehicles at standstill
+M0801+Cars that are moving towards us
+M0801+Autos traveling away from our view
+M0801+The movement of the white autos is restricted by a traffic jam
+M0801+The taxi is unable to move due to traffic congestion
+M0801+Stopped cars
+M0801+White colored cars
+M0801+Freight vehicle
+M0801+Cars in transit
+M0801+Vehicles coming our way
+M0801+The white finish cars
+M0801+Cars positioned on sidewalk area
+M0801+The light colored vehicles are packed together and not moving
+M0801+The black vehicles coming toward our location
+M0801+The light automobiles
+M0801+Moving black cars
+M0801+Vehicles departing from our location
+M0801+Dark automobiles traveling
+M0801+The dark automobiles moving in our direction
+M0801+Traveling dark cars
+M0801+White cars in transit
+M0801+The motion of the taxi is causing it to move into the adjacent lane
+M0801+The white-colored cars
+M0801+Still black cars
+M0801+The black vehicle is not staying within its lane boundaries
+M0801+Mass transit bus
+M0801+Moving cars
+M0801+The black vehicles coming our way
+M0801+Autos traveling toward our view
+M0801+The white cars that are moving towards us
+M1001+Automobiles positioned on walkway
+M1001+Cars positioned on straight road's left area
+M1001+The white vehicles driving alongside our trajectory
+M1001+The white cars heading away from our position
+M1001+Cars that are moving away from us
+M1001+Vehicles along right edge of straight road
+M1001+Heavy duty truck
+M1001+The white vehicles journeying along the same route direction as we are
+M1001+Cars parked on the sidewalk
+M1001+The white cars are stopped on the shoulder of the road
+M1001+The light cars proceeding away from us
+M1001+The dark automobiles moving in opposite direction
+M1001+Vehicles located on the left boundary of straight road
+M1001+The red vehicles traveling parallel to our course
+M1001+This red vehicles path is encroaching on the adjacent lane
+M1001+Large capacity passenger vehicle
+M1001+Cargo transport
+M1001+Cars stopped on pavement for pedestrians
+M1001+Automobiles on left side of straight road
+M1001+Multi-passenger coach
+M1001+The red automobiles moving in opposite direction
+M1001+The black vehicles departing from our location
+M1001+Cars maintaining contrary directional movement
+M1001+The vehicles on the roadway
+M1001+Cars driving from right to left
+M1001+The white autos traveling away from our view
+M1001+Autos located at road boundary
+M1001+Illegally parked cars
+M1001+Public transport vehicle
+M1001+Vehicles going away from us
+M1001+Passenger coach vehicle
+M1001+Heavy transport vehicle
+M1001+The red-colored cars maintaining equivalent directional movement
+M1001+Automobiles situated on the right margin of straight road
+M1001+The red automobiles departing our vicinity
+M1001+Red cars traveling
+M1001+Autos traveling rightward to leftward
+M1001+The red cars
+M1001+The red vehicles traveling on identical vector as our position
+M1001+Automobiles parked beside street
+M1001+Vehicles aligned along the left perimeter of straight road
+M1001+Automobiles proceeding right to left
+M1001+Cars occupying the left-hand side of straight road
+M1001+Immobile white automobiles
+M1001+Automobiles moving in opposite direction
+M1001+Vehicles positioned at street edge
+M1001+The red vehicles departing from our location
+M1001+The cars are positioned along the road in an unauthorized manner
+M1001+Non-moving vehicles
+M1001+The cars positioned within the roadway boundaries
+M1001+Autos moving in reverse alignment to our path
+M1001+Red cars driving
+M1001+Cars heading toward our position
+M1001+Cars advancing in opposing direction
+M1001+The white cars that are moving away from us
+M1001+The dark automobiles departing our vicinity
+M1001+Cars parked on the roadside
+M1001+Bus invading other lanes
+M1001+Vehicles approaching our position
+M1001+The dark cars proceeding away from us
+M1001+Vehicles placed on footpath
+M1001+These light colored vehicles are stationary in a no-parking zone
+M1001+Non-moving white vehicles
+M1001+Red cars in transit
+M1001+Parked automobiles
+M1001+The red vehicles going away from us
+M1001+Cars traveling
+M1001+Inactive white automobiles
+M1001+The dark vehicles traveling away from our position
+M1001+Illegally parked white cars
+M1001+Cars proceeding in contrary direction to ours
+M1001+Cars maintaining equivalent directional movement
+M1001+The black automobiles heading the same way we are
+M1001+The motion of the bus is causing it to move into the adjacent lane
+M1001+The white vehicles departing from our location
+M1001+Vehicles driving alongside our trajectory
+M1001+Vehicles traveling contrary to our course
+M1001+Autos located on pedestrian walkway
+M1001+White cars not moving
+M1001+Vehicles moving in reverse direction from us
+M1001+The white automobiles progressing in the same directional flow
+M1001+Autos on right part of straight road
+M1001+The black vehicles driving alongside our trajectory
+M1001+Vehicles stationed on pedestrian path
+M1001+Red automobiles in movement
+M1001+Vehicles traveling on contrary vector to our position
+M1001+The dark autos moving in alignment with our path
+M1001+These automobiles are stopped in a no-parking zone
+M1001+Cars at rest
+M1001+Cars proceeding in identical direction to ours
+M1001+Automobiles driving
+M1001+The red cars advancing in our matching direction
+M1001+Cars driving toward us
+M1001+Automobiles moving in our direction
+M1001+The dark vehicles traveling on identical vector as our position
+M1001+Vehicles proceeding
+M1001+Cars stationed on sidewalk zone
+M1001+Moving red automobiles
+M1001+Still white cars
+M1001+The red-colored cars proceeding in identical direction to ours
+M1001+Automobiles approaching our vicinity
+M1001+The black vehicles journeying along the same route direction as we are
+M1001+Cars proceeding from right to left
+M1001+The white vehicles moving in reverse direction from us
+M1001+Automobiles progressing in opposing directional flow
+M1001+Cars on the left side of the straight road
+M1001+The red exterior vehicles
+M1001+The white vehicles traveling away from our position
+M1001+Automobiles parked on walking path
+M1001+Automobiles on right side of straight road
+M1001+Still cars
+M1001+These buses are stationary on the side of the road
+M1001+Red vehicles in motion
+M1001+Vehicles moving in our direction
+M1001+The red-toned vehicles
+M1001+Traveling red cars
+M1001+The red car is failing to stay inside its designated lane
+M1001+Vehicles traveling away from our position
+M1001+Vehicles aligned along the right perimeter of straight road
+M1001+The red vehicles driving alongside our trajectory
+M1001+The white vehicles traveling on identical vector as our position
+M1001+Cars heading away from our position
+M1001+The buses are stopped in an area where parking is not permitted
+M1001+Cars stopped along roadway border
+M1001+Cars occupying the right-hand side of straight road
+M1001+The red automobiles progressing in the same directional flow
+M1001+The red vehicles moving in reverse direction from us
+M1001+The white vehicles traveling parallel to our course
+M1001+Automobiles heading the same way we are
+M1001+Cars proceeding toward us
+M1001+Vehicles in motion
+M1001+Vehicles journeying along the reverse route direction from us
+M1001+Stopped white cars
+M1001+The white cars driving away from us
+M1001+Freight truck
+M1001+The red autos moving in alignment with our path
+M1001+Cars not moving
+M1001+The dark vehicles traveling parallel to our course
+M1001+Moving red cars
+M1001+The automobiles on the driving path
+M1001+Truck
+M1001+The black cars driving away from us
+M1001+The red autos traveling away from our view
+M1001+The red-colored cars
+M1001+Vehicles driving rightward to leftward
+M1001+The white automobiles moving in opposite direction
+M1001+The black automobiles progressing in the same directional flow
+M1001+The buses appear to be improperly left in a no-parking zone
+M1001+The cars on the road
+M1001+Cars positioned on road perimeter
+M1001+The red vehicles journeying along the same route direction as we are
+M1001+Automobiles departing our vicinity
+M1001+The white cars advancing in our matching direction
+M1001+Traveling vehicles
+M1001+The red cars driving away from us
+M1001+The red cars movement is causing it to enter the neighboring lane
+M1001+City transit bus
+M1001+Bus
+M1001+The position of the white cars suggests they are improperly parked
+M1001+Cars moving in the opposite direction to us
+M1001+Vehicles placed at street margin
+M1001+Cars in movement
+M1001+The red car is seen crossing the lane divider line
+M1001+Multi-seat transport vehicle
+M1001+Moving automobiles
+M1001+Stationary cars
+M1001+Red automobiles traveling
+M1001+Cars stationed along road border
+M1001+The dark-colored cars proceeding in identical direction to ours
+M1001+Automobiles situated on the left margin of straight road
+M1001+Red car invading other lanes
+M1001+The black cars moving in the same direction as us
+M1001+The red vehicles
+M1001+The black cars that are moving away from us
+M1001+The white-colored cars proceeding in identical direction to ours
+M1001+Public service bus
+M1001+Heavy cargo vehicle
+M1001+The dark-colored cars maintaining equivalent directional movement
+M1001+These cars are stationary in a location not meant for parking
+M1001+The cars positioned on street
+M1001+Vehicles driving against our trajectory
+M1001+Automobiles moving right to left
+M1001+The bus is not staying within its designated lane
+M1001+The red cars heading away from our position
+M1001+Autos on left part of straight road
+M1001+Vehicles situated at roadway edge
+M1001+Vehicles traveling parallel to our course
+M1001+Automobiles heading opposite way we are
+M1001+The buses travel path is encroaching on the adjacent lane
+M1001+Vehicles journeying along the same route direction as we are
+M1001+Cars positioned on straight road's right area
+M1001+Cars driving forward
+M1001+Parked white automobiles
+M1001+The red colored cars
+M1001+Cars on left section of straight road
+M1001+Vehicles stationed at road edge
+M1001+The cars situated on the driving lane
+M1001+Parked vehicles
+M1001+The red automobiles
+M1001+The dark vehicles moving in reverse direction from us
+M1001+Cars traveling in right-to-left direction
+M1001+Vehicles on straight road's left portion
+M1001+The automobiles occupying the driving surface
+M1001+Parked white vehicles
+M1001+Commercial truck
+M1001+Vehicles traveling on identical vector as our position
+M1001+Large passenger vehicle
+M1001+The white-colored cars maintaining equivalent directional movement
+M1001+The vehicles established on the road zone
+M1001+White vehicles at standstill
+M1001+Inactive automobiles
+M1001+Immobile automobiles
+M1001+The black vehicles going away from us
+M1001+The black autos traveling away from our view
+M1001+Cars driving away from us
+M1001+White cars at rest
+M1001+The red automobiles heading the same way we are
+M1001+The autos located on road area
+M1001+Stationary white cars
+M1001+The vehicles appear to be improperly left on the roadside
+M1001+The black cars heading away from our position
+M1001+Illegal parked buses
+M1001+The red cars that are moving away from us
+M1001+The red cars moving in the same direction as us
+M1001+Automobiles progressing in the same directional flow
+M1001+Public transportation bus
+M1001+Cars proceeding away from us
+M1001+Large transport truck
+M1001+Vehicles located on the right boundary of straight road
+M1001+Cars on right section of straight road
+M1001+Vehicles coming toward our location
+M1001+Cars on the right side of the straight road
+M1001+The vehicles present on the road infrastructure
+M1001+Vehicles situated on pedestrian space
+M1001+Large delivery vehicle
+M1001+The red finish cars
+M1001+The vehicles placed on the road surface
+M1001+Automobiles positioned beside the road
+M1001+Cars moving from right side to left side
+M1001+Cars moving in the same direction as us
+M1001+This bus is crossing the marked line that separates the lanes
+M1001+Large cargo vehicle
+M1001+Vehicles going right to left
+M1001+Automobiles in motion
+M1001+Cars advancing in our matching direction
+M1001+Vehicles positioned on pathway for pedestrians
+M1001+The white cars moving in the same direction as us
+M1001+Vehicles at standstill
+M1001+The light autos moving in alignment with our path
+M1001+Vehicles moving from right toward left
+M1001+The black cars advancing in our matching direction
+M1001+Cars that are moving towards us
+M1001+The white automobiles heading the same way we are
+M1001+Autos traveling away from our view
+M1001+Moving red-colored vehicles
+M1001+Vehicles on straight road's right portion
+M1001+The white cars appear to be parked where they may block traffic
+M1001+Stopped cars
+M1001+Freight vehicle
+M1001+Cars in transit
+M1001+Vehicles coming our way
+M1001+The red painted automobiles
+M1001+The light automobiles departing our vicinity
+M1001+Cars positioned on sidewalk area
+M1001+Vehicles departing from our location
+M1001+The red cars proceeding away from us
+M1001+The position of these buses suggests they are illegally parked
+M1001+Vehicles along left edge of straight road
+M1001+Vehicles traveling from right to left
+M1001+The white vehicles going away from us
+M1001+Red vehicles proceeding
+M1001+Mass transit bus
+M1001+The red-painted vehicles
+M1001+The red vehicles traveling away from our position
+M1001+Moving cars
+M1001+Autos moving in alignment with our path
+M1001+Autos traveling toward our view
+M1004+Automobiles positioned on walkway
+M1004+Cars that are moving away from us
+M1004+Heavy duty truck
+M1004+Cars parked on the sidewalk
+M1004+Large capacity passenger vehicle
+M1004+Cargo transport
+M1004+Cars stopped on pavement for pedestrians
+M1004+Multi-passenger coach
+M1004+This taxi is part of a dense group of stopped vehicles
+M1004+Cars maintaining contrary directional movement
+M1004+The car driving with lights illuminated
+M1004+The vehicles on the roadway
+M1004+Automobile paused at red light
+M1004+Cars driving from right to left
+M1004+Autos located at road boundary
+M1004+Illegally parked cars
+M1004+Public transport vehicle
+M1004+Vehicles going away from us
+M1004+Passenger coach vehicle
+M1004+Heavy transport vehicle
+M1004+Autos traveling rightward to leftward
+M1004+Automobiles parked beside street
+M1004+Automobiles proceeding right to left
+M1004+Automobiles moving in opposite direction
+M1004+Vehicles positioned at street edge
+M1004+Non-moving vehicles
+M1004+The cars positioned within the roadway boundaries
+M1004+Autos moving in reverse alignment to our path
+M1004+Cars heading toward our position
+M1004+Cars advancing in opposing direction
+M1004+The intersection is blocked by a high density of vehicles
+M1004+The taxi appears to be stuck in a traffic jam
+M1004+The automobile traveling with headlights on
+M1004+Cars parked on the roadside
+M1004+Vehicles approaching our position
+M1004+Vehicle at rest at red light
+M1004+Vehicles placed on footpath
+M1004+Parked automobiles
+M1004+The driving vehicle with lights switched on
+M1004+Cars traveling
+M1004+The traveling car with headlights lit
+M1004+Automobile waiting at stoplight
+M1004+Cars proceeding in contrary direction to ours
+M1004+Cars maintaining equivalent directional movement
+M1004+Vehicles driving alongside our trajectory
+M1004+Vehicles traveling contrary to our course
+M1004+Autos located on pedestrian walkway
+M1004+Vehicles moving in reverse direction from us
+M1004+Vehicles stationed on pedestrian path
+M1004+Vehicles traveling on contrary vector to our position
+M1004+Cars performing left turns in top area
+M1004+Cars at rest
+M1004+Cars proceeding in identical direction to ours
+M1004+Automobiles driving
+M1004+Cars driving toward us
+M1004+Automobiles moving in our direction
+M1004+Vehicles proceeding
+M1004+Cars stationed on sidewalk zone
+M1004+The movement of the light colored autos is restricted by a traffic jam
+M1004+Automobiles approaching our vicinity
+M1004+These black vehicles are in a slow moving line of traffic
+M1004+Cars proceeding from right to left
+M1004+Automobiles progressing in opposing directional flow
+M1004+The vehicle in motion with headlights turned on
+M1004+The black cars are caught in heavy traffic congestion
+M1004+Automobiles parked on walking path
+M1004+Cars turning left in upper view area
+M1004+Still cars
+M1004+Vehicles moving in our direction
+M1004+Vehicles traveling away from our position
+M1004+This cab is caught in a slow moving line of traffic
+M1004+Vehicle stopped at red traffic signal
+M1004+Cars heading away from our position
+M1004+Cars stopped along roadway border
+M1004+The taxis forward progress is impeded by heavy traffic
+M1004+Automobiles heading the same way we are
+M1004+Cars proceeding toward us
+M1004+Vehicles in motion
+M1004+A gridlock has formed at the intersection
+M1004+Vehicles journeying along the reverse route direction from us
+M1004+Vehicles taking left turns in top section
+M1004+Freight truck
+M1004+Car waiting at red light
+M1004+Vehicle stopped at red signal
+M1004+Cars not moving
+M1004+Autos turning left in upper portion
+M1004+The automobiles on the driving path
+M1004+Truck
+M1004+Cars turning left on the top side of the view
+M1004+Vehicles driving rightward to leftward
+M1004+The cars on the road
+M1004+Cars positioned on road perimeter
+M1004+Automobiles departing our vicinity
+M1004+Traveling vehicles
+M1004+Cars making left-hand turns at top
+M1004+City transit bus
+M1004+Bus
+M1004+Cars moving in the opposite direction to us
+M1004+Vehicles placed at street margin
+M1004+Cars in movement
+M1004+The car in motion with lights enabled
+M1004+Auto paused at red stoplight
+M1004+Multi-seat transport vehicle
+M1004+Moving automobiles
+M1004+Stationary cars
+M1004+Cars are packed together and unable to clear the intersection
+M1004+Cars stationed along road border
+M1004+Vehicle waiting at traffic signal
+M1004+Public service bus
+M1004+Heavy cargo vehicle
+M1004+The white cars are in a dense traffic jam
+M1004+These cars are stationary in a location not meant for parking
+M1004+The cars positioned on street
+M1004+Vehicles driving against our trajectory
+M1004+Automobiles making left turns at top
+M1004+Automobiles moving right to left
+M1004+The moving automobile with headlights turned on
+M1004+Car positioned at red traffic signal
+M1004+Vehicles situated at roadway edge
+M1004+Vehicles traveling parallel to our course
+M1004+Automobiles heading opposite way we are
+M1004+The high density of white cars indicates they are in a gridlock
+M1004+The moving car with headlights on
+M1004+Vehicles journeying along the same route direction as we are
+M1004+Vehicles making left turns at top of view
+M1004+Traffic jam at intersection
+M1004+White cars stuck in traffic jam
+M1004+Cars driving forward
+M1004+Vehicles stationed at road edge
+M1004+The cars situated on the driving lane
+M1004+Parked vehicles
+M1004+The traveling vehicle with lights on
+M1004+Cars traveling in right-to-left direction
+M1004+Car stationed at red traffic light
+M1004+The automobiles occupying the driving surface
+M1004+Commercial truck
+M1004+Vehicles traveling on identical vector as our position
+M1004+Large passenger vehicle
+M1004+The movement of the dark colored autos is restricted by a traffic jam
+M1004+Vehicles executing left turns at top
+M1004+Vehicles are congested at the point where the roads cross
+M1004+The vehicles established on the road zone
+M1004+Inactive automobiles
+M1004+Immobile automobiles
+M1004+Taxi stuck in traffic jam
+M1004+Cars driving away from us
+M1004+The autos located on road area
+M1004+The vehicles appear to be improperly left on the roadside
+M1004+The black cars are observed in a bumper to bumper situation
+M1004+The moving car with lights activated
+M1004+Automobiles progressing in the same directional flow
+M1004+Public transportation bus
+M1004+Cars proceeding away from us
+M1004+Large transport truck
+M1004+Vehicles coming toward our location
+M1004+The vehicles present on the road infrastructure
+M1004+Vehicles situated on pedestrian space
+M1004+Large delivery vehicle
+M1004+The vehicles placed on the road surface
+M1004+Automobiles positioned beside the road
+M1004+Cars moving from right side to left side
+M1004+Cars moving in the same direction as us
+M1004+Black cars stuck in traffic jam
+M1004+Large cargo vehicle
+M1004+Vehicles going right to left
+M1004+Automobiles in motion
+M1004+Car stopped at red traffic light
+M1004+The driving car with headlights activated
+M1004+Cars advancing in our matching direction
+M1004+Vehicles positioned on pathway for pedestrians
+M1004+Vehicles at standstill
+M1004+Vehicles moving from right toward left
+M1004+Cars that are moving towards us
+M1004+Autos traveling away from our view
+M1004+The taxi is unable to move due to traffic congestion
+M1004+Stopped cars
+M1004+Freight vehicle
+M1004+Cars in transit
+M1004+Vehicles coming our way
+M1004+Cars positioned on sidewalk area
+M1004+Vehicles departing from our location
+M1004+The automobiles are stopped in a no-parking zone
+M1004+Vehicles traveling from right to left
+M1004+Mass transit bus
+M1004+Automobiles making left turns above
+M1004+Moving cars
+M1004+Autos moving in alignment with our path
+M1004+Vehicles turning left at top edge
+M1004+Autos traveling toward our view
+M1007+The white vehicles driving alongside our trajectory
+M1007+Cars that are moving away from us
+M1007+The white vehicles journeying along the same route direction as we are
+M1007+Dark vehicles proceeding
+M1007+The white vehicles driving against our trajectory
+M1007+The red vehicles traveling parallel to our course
+M1007+Cars maintaining contrary directional movement
+M1007+Black automobiles in movement
+M1007+The vehicles on the roadway
+M1007+Automobile paused at red light
+M1007+This dark colored car's path shows it is cutting into another lane
+M1007+Autos located at road boundary
+M1007+Illegally parked cars
+M1007+Vehicles going away from us
+M1007+The red-colored cars maintaining equivalent directional movement
+M1007+Black cars at rest
+M1007+Red cars traveling
+M1007+The red cars
+M1007+The red vehicles traveling on identical vector as our position
+M1007+Automobiles parked beside street
+M1007+This white vehicle is cutting into the lane alongside it
+M1007+Immobile white automobiles
+M1007+Automobiles moving in opposite direction
+M1007+Vehicles positioned at street edge
+M1007+Black cars not moving
+M1007+Non-moving vehicles
+M1007+The cars positioned within the roadway boundaries
+M1007+Autos moving in reverse alignment to our path
+M1007+The black colored cars
+M1007+Red cars driving
+M1007+Cars heading toward our position
+M1007+The car is seen crossing the lane divider line
+M1007+The black exterior vehicles
+M1007+Cars advancing in opposing direction
+M1007+The dark vehicles
+M1007+The vehicle is crossing over the painted lane divider
+M1007+The white-colored cars maintaining contrary directional movement
+M1007+Cars parked on the roadside
+M1007+Vehicles approaching our position
+M1007+Vehicle at rest at red light
+M1007+Black vehicles in motion
+M1007+The black auto's travel path is encroaching on the adjacent lane
+M1007+Non-moving white vehicles
+M1007+Red cars in transit
+M1007+Parked automobiles
+M1007+Cars traveling
+M1007+The white vehicles traveling contrary to our course
+M1007+Inactive white automobiles
+M1007+Automobile waiting at stoplight
+M1007+Cars proceeding in contrary direction to ours
+M1007+Cars maintaining equivalent directional movement
+M1007+The white automobiles progressing in opposing directional flow
+M1007+The black automobiles heading the same way we are
+M1007+Vehicles driving alongside our trajectory
+M1007+Vehicles traveling contrary to our course
+M1007+White cars not moving
+M1007+Vehicles moving in reverse direction from us
+M1007+The white automobiles progressing in the same directional flow
+M1007+Moving dark automobiles
+M1007+Non-moving dark vehicles
+M1007+The black vehicles driving alongside our trajectory
+M1007+Red automobiles in movement
+M1007+White automobiles in movement
+M1007+Vehicles traveling on contrary vector to our position
+M1007+The black-painted vehicles
+M1007+The dark autos moving in alignment with our path
+M1007+The white cars
+M1007+These automobiles are stopped in a no-parking zone
+M1007+Cars at rest
+M1007+The position of the white car suggests it is improperly parked
+M1007+Cars proceeding in identical direction to ours
+M1007+Automobiles driving
+M1007+The red cars advancing in our matching direction
+M1007+Cars driving toward us
+M1007+Automobiles moving in our direction
+M1007+The dark vehicles traveling on identical vector as our position
+M1007+Vehicles proceeding
+M1007+Moving red automobiles
+M1007+Still white cars
+M1007+The red-colored cars proceeding in identical direction to ours
+M1007+Automobiles approaching our vicinity
+M1007+The black vehicles journeying along the same route direction as we are
+M1007+Automobiles progressing in opposing directional flow
+M1007+The white vehicle's trajectory is extending beyond the lanemarkings
+M1007+Moving white-colored vehicles
+M1007+The red exterior vehicles
+M1007+The black finish cars
+M1007+Still cars
+M1007+Red vehicles in motion
+M1007+This red vehicle's path is encroaching on the adjacent lane
+M1007+Vehicles moving in our direction
+M1007+The white cars moving in the opposite direction to us
+M1007+Stationary black cars
+M1007+The red-toned vehicles
+M1007+Red car intruding into other lanes
+M1007+Traveling red cars
+M1007+The red car is failing to stay inside its designated lane
+M1007+Vehicles traveling away from our position
+M1007+The light-toned vehicles
+M1007+The white-painted vehicles
+M1007+The red vehicles driving alongside our trajectory
+M1007+Vehicle stopped at red traffic signal
+M1007+Traveling white cars
+M1007+The white vehicles traveling on identical vector as our position
+M1007+Cars heading away from our position
+M1007+The white car is failing to stay inside its designated lane
+M1007+Cars stopped along roadway border
+M1007+The red automobiles progressing in the same directional flow
+M1007+The white vehicles traveling parallel to our course
+M1007+Automobiles heading the same way we are
+M1007+Cars proceeding toward us
+M1007+Vehicles in motion
+M1007+Vehicles journeying along the reverse route direction from us
+M1007+Black car intruding into other lanes
+M1007+Stopped white cars
+M1007+White car intruding into other lanes
+M1007+Car waiting at red light
+M1007+The red autos moving in alignment with our path
+M1007+Vehicle stopped at red signal
+M1007+Cars not moving
+M1007+The white vehicles
+M1007+The black automobiles
+M1007+The dark vehicles traveling parallel to our course
+M1007+Moving red cars
+M1007+The white automobiles heading opposite way we are
+M1007+The white car is stopped on the shoulder of the road
+M1007+The automobiles on the driving path
+M1007+The black cars
+M1007+The red-colored cars
+M1007+The black automobiles progressing in the same directional flow
+M1007+The cars on the road
+M1007+Cars invading other lanes
+M1007+Cars positioned on road perimeter
+M1007+Moving white cars
+M1007+The red vehicles journeying along the same route direction as we are
+M1007+Automobiles departing our vicinity
+M1007+The white cars advancing in our matching direction
+M1007+Traveling vehicles
+M1007+Dark vehicles at standstill
+M1007+Moving dark-colored vehicles
+M1007+The light autos moving in reverse alignment to our path
+M1007+This light colored vehicle is stationary in a no-parking zone
+M1007+The dark automobiles
+M1007+The white-colored cars proceeding in contrary direction to ours
+M1007+Parked dark vehicles
+M1007+Cars moving in the opposite direction to us
+M1007+Vehicles placed at street margin
+M1007+Cars in movement
+M1007+Auto paused at red stoplight
+M1007+The red car is seen crossing the lane divider line
+M1007+White cars traveling
+M1007+Moving automobiles
+M1007+Stationary cars
+M1007+Red automobiles traveling
+M1007+Cars stationed along road border
+M1007+The dark-colored cars proceeding in identical direction to ours
+M1007+Black cars in transit
+M1007+The black cars moving in the same direction as us
+M1007+Black cars driving
+M1007+Vehicle waiting at traffic signal
+M1007+The red vehicles
+M1007+The white-colored cars proceeding in identical direction to ours
+M1007+White cars driving
+M1007+The dark-colored cars maintaining equivalent directional movement
+M1007+The white car appears to be parked where it may block traffic
+M1007+These cars are stationary in a location not meant for parking
+M1007+The cars positioned on street
+M1007+Vehicles driving against our trajectory
+M1007+Car positioned at red traffic signal
+M1007+Vehicles situated at roadway edge
+M1007+Vehicles traveling parallel to our course
+M1007+Automobiles heading opposite way we are
+M1007+The white vehicles journeying along the reverse route direction from us
+M1007+Dark cars traveling
+M1007+Vehicles journeying along the same route direction as we are
+M1007+The car's trajectory extends beyond its lane's markings
+M1007+Cars driving forward
+M1007+Parked black automobiles
+M1007+Parked white automobiles
+M1007+The red colored cars
+M1007+The vehicle is observed crossing the lane marker into the next lane
+M1007+Vehicles stationed at road edge
+M1007+The cars situated on the driving lane
+M1007+The white vehicles traveling on contrary vector to our position
+M1007+Parked vehicles
+M1007+The red automobiles
+M1007+Stopped black cars
+M1007+Car stationed at red traffic light
+M1007+The white automobile's path is encroaching on the adjacent lane
+M1007+The automobiles occupying the driving surface
+M1007+Parked white vehicles
+M1007+The car's movement shows it is cutting into an adjacent lane
+M1007+Vehicles traveling on identical vector as our position
+M1007+The white-colored cars maintaining equivalent directional movement
+M1007+The white exterior vehicles
+M1007+The vehicles established on the road zone
+M1007+White vehicles at standstill
+M1007+Inactive automobiles
+M1007+Immobile automobiles
+M1007+The white automobiles
+M1007+Cars driving away from us
+M1007+White cars at rest
+M1007+The white colored cars
+M1007+The red automobiles heading the same way we are
+M1007+This automobile's route is encroaching upon the next lane
+M1007+The light painted automobiles
+M1007+The autos located on road area
+M1007+Stationary white cars
+M1007+White vehicles in motion
+M1007+The vehicles appear to be improperly left on the roadside
+M1007+Inactive dark automobiles
+M1007+The white cars advancing in opposing direction
+M1007+The red cars moving in the same direction as us
+M1007+Automobiles progressing in the same directional flow
+M1007+The dark-toned vehicles
+M1007+Cars proceeding away from us
+M1007+Moving white automobiles
+M1007+Vehicles coming toward our location
+M1007+The vehicles present on the road infrastructure
+M1007+The red finish cars
+M1007+The vehicles placed on the road surface
+M1007+The dark painted automobiles
+M1007+Automobiles positioned beside the road
+M1007+Cars moving in the same direction as us
+M1007+The dark-colored cars
+M1007+Automobiles in motion
+M1007+Car stopped at red traffic light
+M1007+Immobile dark automobiles
+M1007+The vehicle is failing to stay within its designated lane
+M1007+White automobiles traveling
+M1007+Cars advancing in our matching direction
+M1007+The white cars moving in the same direction as us
+M1007+White vehicles proceeding
+M1007+Vehicles at standstill
+M1007+The light autos moving in alignment with our path
+M1007+The black cars advancing in our matching direction
+M1007+Cars that are moving towards us
+M1007+The white automobiles heading the same way we are
+M1007+Autos traveling away from our view
+M1007+Moving red-colored vehicles
+M1007+Stopped cars
+M1007+Cars in transit
+M1007+Vehicles coming our way
+M1007+The red painted automobiles
+M1007+The white finish cars
+M1007+The light automobiles
+M1007+Moving black cars
+M1007+Vehicles departing from our location
+M1007+Dark automobiles traveling
+M1007+Traveling dark cars
+M1007+White cars in transit
+M1007+The white-colored cars
+M1007+Illegally parked white car
+M1007+Still black cars
+M1007+The black vehicle is not staying within its lane boundaries
+M1007+Red vehicles proceeding
+M1007+The red-painted vehicles
+M1007+Moving cars
+M1007+Autos moving in alignment with our path
+M1007+Autos traveling toward our view
+M1101+Black painted cars
+M1101+Cars that are moving away from us
+M1101+Dark vehicles proceeding
+M1101+The black autos travel path is encroaching on the adjacent lane
+M1101+Large capacity passenger vehicle
+M1101+Multi-passenger coach
+M1101+The white automobiles path is encroaching on the adjacent lane
+M1101+Vehicles executing left turns at bottom
+M1101+Cars maintaining contrary directional movement
+M1101+Black automobiles in movement
+M1101+The vehicles on the roadway
+M1101+Automobile paused at red light
+M1101+Black colored cars
+M1101+Automobiles making right turns at bottom
+M1101+Autos located at road boundary
+M1101+Public transport vehicle
+M1101+Vehicles going away from us
+M1101+Passenger coach vehicle
+M1101+Cars in light shades
+M1101+Dark automobiles
+M1101+Black cars at rest
+M1101+Vehicles with light colors
+M1101+The red cars
+M1101+The red-colored cars maintaining contrary directional movement
+M1101+Automobiles parked beside street
+M1101+This white vehicle is cutting into the lane alongside it
+M1101+Immobile white automobiles
+M1101+Vehicles with dark colors
+M1101+Automobiles moving in opposite direction
+M1101+Vehicles positioned at street edge
+M1101+The cab in movement
+M1101+Black cars not moving
+M1101+Non-moving vehicles
+M1101+The cars positioned within the roadway boundaries
+M1101+Autos moving in reverse alignment to our path
+M1101+The black colored cars
+M1101+Vehicles turning right at bottom edge
+M1101+Cars heading toward our position
+M1101+The driving taxi
+M1101+The car is seen crossing the lane divider line
+M1101+The black exterior vehicles
+M1101+Cars advancing in opposing direction
+M1101+The dark vehicles
+M1101+The intersection is blocked by a high density of vehicles
+M1101+The vehicle is crossing over the painted lane divider
+M1101+Cars parked on the roadside
+M1101+Dark-colored cars
+M1101+Vehicles approaching our position
+M1101+Vehicle at rest at red light
+M1101+Cars performing left turns in bottom area
+M1101+Black vehicles in motion
+M1101+Non-moving white vehicles
+M1101+The moving hired vehicle
+M1101+White painted cars
+M1101+Parked automobiles
+M1101+Cars traveling
+M1101+The red vehicles traveling contrary to our course
+M1101+Inactive white automobiles
+M1101+Automobile waiting at stoplight
+M1101+Cars proceeding in contrary direction to ours
+M1101+Cars maintaining equivalent directional movement
+M1101+Vehicles driving alongside our trajectory
+M1101+The red automobiles progressing in opposing directional flow
+M1101+Vehicles traveling contrary to our course
+M1101+White cars not moving
+M1101+The red cars advancing in opposing direction
+M1101+Vehicles moving in reverse direction from us
+M1101+The movement of the black car is causing it to enter the space of an adjacent lane
+M1101+Moving dark automobiles
+M1101+Non-moving dark vehicles
+M1101+White automobiles in movement
+M1101+Vehicles traveling on contrary vector to our position
+M1101+The black-painted vehicles
+M1101+The white cars
+M1101+Cars performing left turns in top area
+M1101+Cars at rest
+M1101+Vehicles making right turns at bottom of view
+M1101+Automobiles making left turns at bottom
+M1101+Cars proceeding in identical direction to ours
+M1101+Automobiles driving
+M1101+Automobiles making right turns below
+M1101+Vehicles taking left turns in bottom section
+M1101+Cars driving toward us
+M1101+Automobiles moving in our direction
+M1101+Cars turning left on the bottom side of the view
+M1101+The moving taxi
+M1101+Vehicles proceeding
+M1101+Still white cars
+M1101+Cars in dark shades
+M1101+Automobiles approaching our vicinity
+M1101+Automobiles progressing in opposing directional flow
+M1101+Moving white-colored vehicles
+M1101+The red exterior vehicles
+M1101+Cars turning left in upper view area
+M1101+The black finish cars
+M1101+Autos turning right in lower portion
+M1101+Still cars
+M1101+The white cars movement is causing it to enter the neighboring lane
+M1101+Vehicles taking right turns in bottom section
+M1101+The cars trajectory extends beyond its lanes markings
+M1101+Vehicles moving in our direction
+M1101+Stationary black cars
+M1101+The red-toned vehicles
+M1101+The traveling taxi cab
+M1101+Vehicles traveling away from our position
+M1101+The light-toned vehicles
+M1101+The white-painted vehicles
+M1101+Vehicle stopped at red traffic signal
+M1101+Traveling white cars
+M1101+Cars heading away from our position
+M1101+The white car is failing to stay inside its designated lane
+M1101+Light-toned automobiles
+M1101+Cars making left-hand turns at bottom
+M1101+Cars stopped along roadway border
+M1101+Black vehicles
+M1101+Automobiles heading the same way we are
+M1101+Cars proceeding toward us
+M1101+Vehicles in motion
+M1101+A gridlock has formed at the intersection
+M1101+Vehicles journeying along the reverse route direction from us
+M1101+Cars performing right turns in bottom area
+M1101+Stopped white cars
+M1101+These white vehicles are in a slow moving line of traffic
+M1101+White car intruding into other lanes
+M1101+Vehicles taking left turns in top section
+M1101+Car waiting at red light
+M1101+This dark colored cars path shows it is cutting into another lane
+M1101+Vehicle stopped at red signal
+M1101+Cars not moving
+M1101+The white vehicles
+M1101+The black automobiles
+M1101+Autos turning left in upper portion
+M1101+The red automobiles heading opposite way we are
+M1101+The automobiles on the driving path
+M1101+The black cars
+M1101+Cars turning left on the top side of the view
+M1101+Light finish vehicles
+M1101+The red-colored cars
+M1101+The moving cab vehicle
+M1101+The taxi in motion
+M1101+The cars on the road
+M1101+Cars invading other lanes
+M1101+Cars positioned on road perimeter
+M1101+Moving white cars
+M1101+Automobiles departing our vicinity
+M1101+Traveling vehicles
+M1101+Cars making left-hand turns at top
+M1101+Dark vehicles at standstill
+M1101+Moving dark-colored vehicles
+M1101+City transit bus
+M1101+Bus
+M1101+The dark automobiles
+M1101+Parked dark vehicles
+M1101+Cars moving in the opposite direction to us
+M1101+Vehicles placed at street margin
+M1101+Cars in movement
+M1101+Black car invading other lanes
+M1101+Auto paused at red stoplight
+M1101+Multi-seat transport vehicle
+M1101+White cars traveling
+M1101+Moving automobiles
+M1101+Stationary cars
+M1101+Cars are packed together and unable to clear the intersection
+M1101+Cars stationed along road border
+M1101+Black cars in transit
+M1101+Black cars driving
+M1101+Vehicle waiting at traffic signal
+M1101+The red vehicles
+M1101+Dark finish vehicles
+M1101+Public service bus
+M1101+White cars driving
+M1101+The white cars are in a dense traffic jam
+M1101+Cars turning right in lower view area
+M1101+The cars positioned on street
+M1101+Vehicles driving against our trajectory
+M1101+Automobiles with light exterior
+M1101+Automobiles making left turns at top
+M1101+Vehicles turning left at bottom edge
+M1101+Car positioned at red traffic signal
+M1101+The traveling taxi service
+M1101+Vehicles situated at roadway edge
+M1101+Vehicles traveling parallel to our course
+M1101+Automobiles heading opposite way we are
+M1101+The high density of white cars indicates they are in a gridlock
+M1101+Dark cars traveling
+M1101+Vehicles journeying along the same route direction as we are
+M1101+Vehicles making left turns at top of view
+M1101+This automobiles route is encroaching upon the next lane
+M1101+Traffic jam at intersection
+M1101+White cars stuck in traffic jam
+M1101+Light-colored cars
+M1101+Cars driving forward
+M1101+Parked black automobiles
+M1101+Parked white automobiles
+M1101+Dark-toned automobiles
+M1101+The red colored cars
+M1101+The vehicle is observed crossing the lane marker into the next lane
+M1101+Vehicles stationed at road edge
+M1101+The cars situated on the driving lane
+M1101+Light automobiles
+M1101+The traveling cab
+M1101+Automobiles with dark exterior
+M1101+Vehicles executing right turns at bottom
+M1101+Parked vehicles
+M1101+The red automobiles
+M1101+The red cars moving in the opposite direction to us
+M1101+Stopped black cars
+M1101+The red vehicles driving against our trajectory
+M1101+Cars making right-hand turns at bottom
+M1101+Cars turning left in lower view area
+M1101+Light-painted cars
+M1101+Car stationed at red traffic light
+M1101+The automobiles occupying the driving surface
+M1101+Parked white vehicles
+M1101+Vehicles traveling on identical vector as our position
+M1101+White vehicles
+M1101+Large passenger vehicle
+M1101+Vehicles executing left turns at top
+M1101+Vehicles are congested at the point where the roads cross
+M1101+The white exterior vehicles
+M1101+The vehicles established on the road zone
+M1101+White vehicles at standstill
+M1101+Inactive automobiles
+M1101+Immobile automobiles
+M1101+The white automobiles
+M1101+Cars driving away from us
+M1101+White cars at rest
+M1101+The white colored cars
+M1101+The driving cab
+M1101+The light painted automobiles
+M1101+The red vehicles traveling on contrary vector to our position
+M1101+The autos located on road area
+M1101+Stationary white cars
+M1101+White vehicles in motion
+M1101+The taxi driving forward
+M1101+Inactive dark automobiles
+M1101+Automobiles progressing in the same directional flow
+M1101+The dark-toned vehicles
+M1101+Public transportation bus
+M1101+Cars proceeding away from us
+M1101+Moving white automobiles
+M1101+Vehicles coming toward our location
+M1101+The red autos moving in reverse alignment to our path
+M1101+The vehicles present on the road infrastructure
+M1101+Dark-painted cars
+M1101+The red finish cars
+M1101+The vehicles placed on the road surface
+M1101+Cars turning right on the bottom side of the view
+M1101+The dark painted automobiles
+M1101+Automobiles positioned beside the road
+M1101+Cars moving in the same direction as us
+M1101+The dark-colored cars
+M1101+The red vehicles journeying along the reverse route direction from us
+M1101+Automobiles in motion
+M1101+Automobiles making left turns below
+M1101+Car stopped at red traffic light
+M1101+Immobile dark automobiles
+M1101+The vehicle is failing to stay within its designated lane
+M1101+White automobiles traveling
+M1101+The cars movement shows it is cutting into an adjacent lane
+M1101+Cars advancing in our matching direction
+M1101+White vehicles proceeding
+M1101+Vehicles at standstill
+M1101+Autos turning left in lower portion
+M1101+Cars that are moving towards us
+M1101+The red-colored cars proceeding in contrary direction to ours
+M1101+Autos traveling away from our view
+M1101+Stopped cars
+M1101+White colored cars
+M1101+Cars in transit
+M1101+Vehicles coming our way
+M1101+The red painted automobiles
+M1101+Vehicles making left turns at bottom of view
+M1101+The white finish cars
+M1101+The light colored vehicles are packed together and not moving
+M1101+The light automobiles
+M1101+Moving black cars
+M1101+Vehicles departing from our location
+M1101+Dark automobiles traveling
+M1101+Traveling dark cars
+M1101+White cars in transit
+M1101+The white-colored cars
+M1101+Still black cars
+M1101+The black vehicle is not staying within its lane boundaries
+M1101+Mass transit bus
+M1101+The red-painted vehicles
+M1101+Automobiles making left turns above
+M1101+Moving cars
+M1101+Autos moving in alignment with our path
+M1101+Vehicles turning left at top edge
+M1101+Autos traveling toward our view
+M1301+Cars traveling in left-to-right direction
+M1301+The white vehicles driving alongside our trajectory
+M1301+Cars that are moving away from us
+M1301+This large vehicles travel path is encroaching on the adjacent lane
+M1301+Heavy duty truck
+M1301+The white vehicles journeying along the same route direction as we are
+M1301+The white vehicles driving against our trajectory
+M1301+Vehicles traveling from left to right
+M1301+The red vehicles traveling parallel to our course
+M1301+These red cars are part of a dense cluster of vehicles
+M1301+Large capacity passenger vehicle
+M1301+Cargo transport
+M1301+Multi-passenger coach
+M1301+Autos traveling leftward to rightward
+M1301+Cars maintaining contrary directional movement
+M1301+The vehicles on the roadway
+M1301+Cars driving from right to left
+M1301+Automobiles taking right turns at bottom of three-way crossing
+M1301+Vehicles performing right turns at bottom three-way crossing
+M1301+Public transport vehicle
+M1301+Vehicles going away from us
+M1301+The truck is failing to stay within its designated lane
+M1301+Passenger coach vehicle
+M1301+Heavy transport vehicle
+M1301+The red-colored cars maintaining equivalent directional movement
+M1301+The movement of the red autos is restricted by a traffic jam
+M1301+Vehicles executing right turns on right
+M1301+Autos traveling rightward to leftward
+M1301+Automobiles turning right at bottom section of three-way intersection
+M1301+The red cars
+M1301+The red-colored cars maintaining contrary directional movement
+M1301+The red vehicles traveling on identical vector as our position
+M1301+Vehicles executing right turns at lower three-way intersection
+M1301+Automobiles proceeding right to left
+M1301+Automobiles moving in opposite direction
+M1301+The cab in movement
+M1301+The cars positioned within the roadway boundaries
+M1301+Autos moving in reverse alignment to our path
+M1301+The black colored cars
+M1301+Cars heading toward our position
+M1301+The driving taxi
+M1301+The black exterior vehicles
+M1301+Cars advancing in opposing direction
+M1301+The dark vehicles
+M1301+The intersection is blocked by a high density of vehicles
+M1301+The white-colored cars maintaining contrary directional movement
+M1301+Vehicles approaching our position
+M1301+Vehicles taking right turns at lower three-way crossing point
+M1301+Red cars stuck in traffic jam
+M1301+The moving hired vehicle
+M1301+The red vehicles traveling contrary to our course
+M1301+The white vehicles traveling contrary to our course
+M1301+Cars proceeding in contrary direction to ours
+M1301+Cars maintaining equivalent directional movement
+M1301+The white automobiles progressing in opposing directional flow
+M1301+The black automobiles heading the same way we are
+M1301+Vehicles driving alongside our trajectory
+M1301+The red automobiles progressing in opposing directional flow
+M1301+Vehicles traveling contrary to our course
+M1301+The red colored vehicles are in a bumper to bumper situation
+M1301+The red cars advancing in opposing direction
+M1301+Vehicles moving in reverse direction from us
+M1301+The white automobiles progressing in the same directional flow
+M1301+The black vehicles driving alongside our trajectory
+M1301+Vehicles traveling on contrary vector to our position
+M1301+The black-painted vehicles
+M1301+The dark autos moving in alignment with our path
+M1301+The white cars
+M1301+Autos turning right at lower portion of three-way intersection
+M1301+The dark vehicles traveling contrary to our course
+M1301+Vehicles moving from left toward right
+M1301+Cars making right turns at lower three-way junction area
+M1301+Cars proceeding in identical direction to ours
+M1301+The red cars advancing in our matching direction
+M1301+Cars driving toward us
+M1301+Automobiles moving in our direction
+M1301+The dark vehicles traveling on identical vector as our position
+M1301+The moving taxi
+M1301+The red-colored cars proceeding in identical direction to ours
+M1301+The dark-colored cars proceeding in contrary direction to ours
+M1301+Automobiles approaching our vicinity
+M1301+These black vehicles are in a slow moving line of traffic
+M1301+Autos turning right in right portion
+M1301+Cars moving from left side to right side
+M1301+The black vehicles journeying along the same route direction as we are
+M1301+Cars turning right at the lower side of the three-way intersection
+M1301+Cars proceeding from right to left
+M1301+Automobiles progressing in opposing directional flow
+M1301+Vehicles driving leftward to rightward
+M1301+The red exterior vehicles
+M1301+The black finish cars
+M1301+Vehicles moving in our direction
+M1301+The dark-colored cars maintaining contrary directional movement
+M1301+The white cars moving in the opposite direction to us
+M1301+The red-toned vehicles
+M1301+The traveling taxi cab
+M1301+The dark colored vehicles are packed together and not moving
+M1301+Vehicles traveling away from our position
+M1301+The light-toned vehicles
+M1301+The white-painted vehicles
+M1301+The red vehicles driving alongside our trajectory
+M1301+Cars turning right in right view area
+M1301+The white vehicles traveling on identical vector as our position
+M1301+Cars heading away from our position
+M1301+The red automobiles progressing in the same directional flow
+M1301+The white vehicles traveling parallel to our course
+M1301+Automobiles heading the same way we are
+M1301+Vehicles going left to right
+M1301+Cars proceeding toward us
+M1301+These white vehicles are observed in a bumper to bumper situation
+M1301+A gridlock has formed at the intersection
+M1301+Vehicles journeying along the reverse route direction from us
+M1301+The truck is observed crossing the lane marker into the next lane
+M1301+Freight truck
+M1301+The red autos moving in alignment with our path
+M1301+Cars performing right turns in right area
+M1301+The white vehicles
+M1301+The black automobiles
+M1301+The dark vehicles traveling parallel to our course
+M1301+The white automobiles heading opposite way we are
+M1301+The red automobiles heading opposite way we are
+M1301+The automobiles on the driving path
+M1301+Truck
+M1301+The black cars
+M1301+The red-colored cars
+M1301+Cars making right-hand turns on right
+M1301+Vehicles driving rightward to leftward
+M1301+The moving cab vehicle
+M1301+The taxi in motion
+M1301+The black automobiles progressing in the same directional flow
+M1301+The cars on the road
+M1301+Automobiles making right turns rightward
+M1301+The red vehicles journeying along the same route direction as we are
+M1301+Automobiles departing our vicinity
+M1301+The white cars advancing in our matching direction
+M1301+City transit bus
+M1301+Bus
+M1301+This trucks trajectory is outside the boundaries of its designated lane
+M1301+The red vehicles appear to be in a gridlock
+M1301+The light autos moving in reverse alignment to our path
+M1301+The dark automobiles
+M1301+The black cars advancing in opposing direction
+M1301+The white-colored cars proceeding in contrary direction to ours
+M1301+Cars moving in the opposite direction to us
+M1301+Multi-seat transport vehicle
+M1301+The dark-colored cars proceeding in identical direction to ours
+M1301+The black cars moving in the same direction as us
+M1301+The red vehicles
+M1301+The white-colored cars proceeding in identical direction to ours
+M1301+Public service bus
+M1301+Heavy cargo vehicle
+M1301+The dark-colored cars maintaining equivalent directional movement
+M1301+The white cars are in a dense traffic jam
+M1301+The cars positioned on street
+M1301+Vehicles driving against our trajectory
+M1301+Automobiles moving right to left
+M1301+The black cars are in a dense traffic jam
+M1301+The traveling taxi service
+M1301+Vehicles traveling parallel to our course
+M1301+Cars driving from left to right
+M1301+Automobiles heading opposite way we are
+M1301+Automobiles moving left to right
+M1301+The white vehicles journeying along the reverse route direction from us
+M1301+Vehicles journeying along the same route direction as we are
+M1301+Traffic jam at intersection
+M1301+White cars stuck in traffic jam
+M1301+Cars making right-hand turns at bottom three-way junction
+M1301+The red colored cars
+M1301+The cars situated on the driving lane
+M1301+The white vehicles traveling on contrary vector to our position
+M1301+The dark autos moving in reverse alignment to our path
+M1301+The traveling cab
+M1301+The red automobiles
+M1301+The red cars moving in the opposite direction to us
+M1301+The red vehicles driving against our trajectory
+M1301+The black automobiles progressing in opposing directional flow
+M1301+Cars traveling in right-to-left direction
+M1301+Vehicles making right turns on right side
+M1301+The automobiles occupying the driving surface
+M1301+Commercial truck
+M1301+Vehicles traveling on identical vector as our position
+M1301+Automobiles proceeding left to right
+M1301+Large passenger vehicle
+M1301+Vehicles turning right at right edge
+M1301+The motion of the truck is causing it to move into the adjacent lane
+M1301+The high density of black cars indicates they are in a gridlock
+M1301+The white-colored cars maintaining equivalent directional movement
+M1301+Truck invading other lanes
+M1301+Vehicles are congested at the point where the roads cross
+M1301+The white exterior vehicles
+M1301+The vehicles established on the road zone
+M1301+Vehicles taking right turns on right section
+M1301+The black cars moving in the opposite direction to us
+M1301+The black vehicles journeying along the reverse route direction from us
+M1301+The white automobiles
+M1301+Cars driving away from us
+M1301+The white colored cars
+M1301+The red automobiles heading the same way we are
+M1301+The driving cab
+M1301+The light painted automobiles
+M1301+The red vehicles traveling on contrary vector to our position
+M1301+The autos located on road area
+M1301+Cars turning right at lower part of three-way intersection
+M1301+The taxi driving forward
+M1301+Cars proceeding from left to right
+M1301+The white cars advancing in opposing direction
+M1301+The dark vehicles traveling on contrary vector to our position
+M1301+The red cars moving in the same direction as us
+M1301+Automobiles progressing in the same directional flow
+M1301+The dark-toned vehicles
+M1301+Public transportation bus
+M1301+Cars proceeding away from us
+M1301+Large transport truck
+M1301+The black vehicles driving against our trajectory
+M1301+Vehicles coming toward our location
+M1301+The red autos moving in reverse alignment to our path
+M1301+The vehicles present on the road infrastructure
+M1301+Cars turning right on the right side of the view
+M1301+Large delivery vehicle
+M1301+The red finish cars
+M1301+The vehicles placed on the road surface
+M1301+The dark painted automobiles
+M1301+Cars moving from right side to left side
+M1301+Cars moving in the same direction as us
+M1301+The dark-colored cars
+M1301+Black cars stuck in traffic jam
+M1301+Large cargo vehicle
+M1301+Vehicles going right to left
+M1301+The red vehicles journeying along the reverse route direction from us
+M1301+Cars advancing in our matching direction
+M1301+The white cars moving in the same direction as us
+M1301+The light autos moving in alignment with our path
+M1301+Vehicles moving from right toward left
+M1301+The black cars advancing in our matching direction
+M1301+Cars that are moving towards us
+M1301+The white automobiles heading the same way we are
+M1301+The red-colored cars proceeding in contrary direction to ours
+M1301+Autos traveling away from our view
+M1301+The movement of the white autos is restricted by a traffic jam
+M1301+Freight vehicle
+M1301+Vehicles coming our way
+M1301+The red painted automobiles
+M1301+The white finish cars
+M1301+The light colored vehicles are packed together and not moving
+M1301+The light automobiles
+M1301+Vehicles departing from our location
+M1301+Vehicles making right turns at bottom of three-way junction
+M1301+The white-colored cars
+M1301+The red cars are caught in heavy traffic congestion
+M1301+Vehicles traveling from right to left
+M1301+Mass transit bus
+M1301+The red-painted vehicles
+M1301+The black automobiles heading opposite way we are
+M1301+Autos moving in alignment with our path
+M1301+Autos traveling toward our view
+M1301+Automobiles making right turns at right
+M1302+Heavy duty truck
+M1302+Dark vehicles proceeding
+M1302+The stopped taxi
+M1302+The black autos travel path is encroaching on the adjacent lane
+M1302+Cargo transport
+M1302+The white automobiles path is encroaching on the adjacent lane
+M1302+Black automobiles in movement
+M1302+The vehicles on the roadway
+M1302+Red vehicles at standstill
+M1302+Automobile paused at red light
+M1302+Parked red automobiles
+M1302+Heavy transport vehicle
+M1302+Black cars at rest
+M1302+Red cars traveling
+M1302+The red cars
+M1302+This white vehicle is cutting into the lane alongside it
+M1302+Immobile white automobiles
+M1302+The cab in movement
+M1302+Black cars not moving
+M1302+Non-moving vehicles
+M1302+The cars positioned within the roadway boundaries
+M1302+The black colored cars
+M1302+Red cars driving
+M1302+The driving taxi
+M1302+The car is seen crossing the lane divider line
+M1302+The black exterior vehicles
+M1302+The dark vehicles
+M1302+The intersection is blocked by a high density of vehicles
+M1302+The vehicle is crossing over the painted lane divider
+M1302+Vehicle at rest at red light
+M1302+Black vehicles in motion
+M1302+Non-moving white vehicles
+M1302+The moving hired vehicle
+M1302+Red cars not moving
+M1302+Red cars in transit
+M1302+Parked automobiles
+M1302+Cars traveling
+M1302+Inactive white automobiles
+M1302+Automobile waiting at stoplight
+M1302+White cars not moving
+M1302+Moving dark automobiles
+M1302+Non-moving dark vehicles
+M1302+Red automobiles in movement
+M1302+White automobiles in movement
+M1302+The black-painted vehicles
+M1302+The white cars
+M1302+The taxi at rest
+M1302+Cars at rest
+M1302+The cab at standstill
+M1302+Automobiles driving
+M1302+The parked cab
+M1302+Parked red vehicles
+M1302+The moving taxi
+M1302+Vehicles proceeding
+M1302+The movement of the light colored autos is restricted by a traffic jam
+M1302+Moving red automobiles
+M1302+Still white cars
+M1302+Still red cars
+M1302+The taxi not moving
+M1302+Moving white-colored vehicles
+M1302+The red exterior vehicles
+M1302+The black finish cars
+M1302+Still cars
+M1302+Red cars at rest
+M1302+Red vehicles in motion
+M1302+The cars trajectory extends beyond its lanes markings
+M1302+Stationary black cars
+M1302+The red-toned vehicles
+M1302+The traveling taxi cab
+M1302+The dark colored vehicles are packed together and not moving
+M1302+Traveling red cars
+M1302+The light-toned vehicles
+M1302+The white-painted vehicles
+M1302+Vehicle stopped at red traffic signal
+M1302+Traveling white cars
+M1302+The white car is failing to stay inside its designated lane
+M1302+Vehicles in motion
+M1302+A gridlock has formed at the intersection
+M1302+The stationary taxi
+M1302+Stopped white cars
+M1302+White car intruding into other lanes
+M1302+Freight truck
+M1302+Car waiting at red light
+M1302+This dark colored cars path shows it is cutting into another lane
+M1302+Vehicle stopped at red signal
+M1302+Cars not moving
+M1302+The white vehicles
+M1302+The black automobiles
+M1302+Moving red cars
+M1302+The automobiles on the driving path
+M1302+Truck
+M1302+The black cars
+M1302+The red-colored cars
+M1302+The moving cab vehicle
+M1302+The taxi in motion
+M1302+The cars on the road
+M1302+Cars invading other lanes
+M1302+Moving white cars
+M1302+Traveling vehicles
+M1302+Dark vehicles at standstill
+M1302+Moving dark-colored vehicles
+M1302+The dark automobiles
+M1302+Parked dark vehicles
+M1302+Cars in movement
+M1302+Black car invading other lanes
+M1302+Auto paused at red stoplight
+M1302+White cars traveling
+M1302+Moving automobiles
+M1302+Stationary cars
+M1302+Cars are packed together and unable to clear the intersection
+M1302+Red automobiles traveling
+M1302+Black cars in transit
+M1302+Black cars driving
+M1302+Vehicle waiting at traffic signal
+M1302+The red vehicles
+M1302+Heavy cargo vehicle
+M1302+White cars driving
+M1302+Inactive red automobiles
+M1302+The white cars are in a dense traffic jam
+M1302+The cars positioned on street
+M1302+The black cars are in a dense traffic jam
+M1302+The parked taxi cab
+M1302+Car positioned at red traffic signal
+M1302+The traveling taxi service
+M1302+The high density of white cars indicates they are in a gridlock
+M1302+Dark cars traveling
+M1302+This automobiles route is encroaching upon the next lane
+M1302+Traffic jam at intersection
+M1302+White cars stuck in traffic jam
+M1302+Cars driving forward
+M1302+These black cars are caught in heavy traffic congestion
+M1302+Parked black automobiles
+M1302+Parked white automobiles
+M1302+The red colored cars
+M1302+The vehicle is observed crossing the lane marker into the next lane
+M1302+The cars situated on the driving lane
+M1302+The stopped cab
+M1302+The traveling cab
+M1302+Parked vehicles
+M1302+The red automobiles
+M1302+Stopped black cars
+M1302+The white vehicles trajectory is extending beyond the lanemarkings
+M1302+Car stationed at red traffic light
+M1302+The automobiles occupying the driving surface
+M1302+Parked white vehicles
+M1302+The stationary cab vehicle
+M1302+Commercial truck
+M1302+The immobile hired vehicle
+M1302+The immobile taxi cab
+M1302+Vehicles are congested at the point where the roads cross
+M1302+The white exterior vehicles
+M1302+The vehicles established on the road zone
+M1302+White vehicles at standstill
+M1302+Inactive automobiles
+M1302+Immobile automobiles
+M1302+Non-moving red vehicles
+M1302+The white automobiles
+M1302+White cars at rest
+M1302+The white colored cars
+M1302+The driving cab
+M1302+The light painted automobiles
+M1302+The autos located on road area
+M1302+Stationary white cars
+M1302+Immobile red automobiles
+M1302+White vehicles in motion
+M1302+The taxi driving forward
+M1302+Inactive dark automobiles
+M1302+The dark-toned vehicles
+M1302+Large transport truck
+M1302+Moving white automobiles
+M1302+The vehicles present on the road infrastructure
+M1302+Large delivery vehicle
+M1302+The red finish cars
+M1302+The vehicles placed on the road surface
+M1302+The dark painted automobiles
+M1302+The dark-colored cars
+M1302+Black cars stuck in traffic jam
+M1302+Large cargo vehicle
+M1302+Automobiles in motion
+M1302+Car stopped at red traffic light
+M1302+Immobile dark automobiles
+M1302+The vehicle is failing to stay within its designated lane
+M1302+White automobiles traveling
+M1302+The cars movement shows it is cutting into an adjacent lane
+M1302+White vehicles proceeding
+M1302+Vehicles at standstill
+M1302+Moving red-colored vehicles
+M1302+Stopped cars
+M1302+Freight vehicle
+M1302+Cars in transit
+M1302+The red painted automobiles
+M1302+The white finish cars
+M1302+Stopped red cars
+M1302+The light automobiles
+M1302+Moving black cars
+M1302+Dark automobiles traveling
+M1302+Traveling dark cars
+M1302+White cars in transit
+M1302+Stationary red cars
+M1302+The white-colored cars
+M1302+Still black cars
+M1302+The black vehicle is not staying within its lane boundaries
+M1302+Red vehicles proceeding
+M1302+The red-painted vehicles
+M1302+Moving cars
+M1401+Cars positioned on straight road's left area
+M1401+The white vehicles driving alongside our trajectory
+M1401+Black painted cars
+M1401+The white cars heading away from our position
+M1401+Cars that are moving away from us
+M1401+Vehicles along right edge of straight road
+M1401+Heavy duty truck
+M1401+The white vehicles journeying along the same route direction as we are
+M1401+The light cars proceeding away from us
+M1401+The dark automobiles moving in opposite direction
+M1401+Vehicles located on the left boundary of straight road
+M1401+The white vehicles driving against our trajectory
+M1401+The black autos travel path is encroaching on the adjacent lane
+M1401+Cargo transport
+M1401+Automobiles on left side of straight road
+M1401+The black vehicles departing from our location
+M1401+The dark vehicles approaching our position
+M1401+The white automobiles path is encroaching on the adjacent lane
+M1401+Cars maintaining contrary directional movement
+M1401+The vehicles on the roadway
+M1401+Black colored cars
+M1401+The white autos traveling away from our view
+M1401+The black cars driving toward us
+M1401+Vehicles going away from us
+M1401+Heavy transport vehicle
+M1401+Cars in light shades
+M1401+Dark automobiles
+M1401+Automobiles situated on the right margin of straight road
+M1401+Vehicles with light colors
+M1401+The white autos traveling toward our view
+M1401+The dark cars proceeding toward us
+M1401+The yellow automobiles
+M1401+Vehicles aligned along the left perimeter of straight road
+M1401+This white vehicle is cutting into the lane alongside it
+M1401+Cars occupying the left-hand side of straight road
+M1401+Vehicles with dark colors
+M1401+Automobiles moving in opposite direction
+M1401+The cab in movement
+M1401+This dark vehicles path is encroaching on the adjacent lane
+M1401+The cars positioned within the roadway boundaries
+M1401+Autos moving in reverse alignment to our path
+M1401+The black colored cars
+M1401+The yellow cars
+M1401+Cars heading toward our position
+M1401+The driving taxi
+M1401+The car is seen crossing the lane divider line
+M1401+The black exterior vehicles
+M1401+The dark vehicles moving in our direction
+M1401+Cars advancing in opposing direction
+M1401+The dark vehicles
+M1401+The dark automobiles departing our vicinity
+M1401+The vehicle is crossing over the painted lane divider
+M1401+The white-colored cars maintaining contrary directional movement
+M1401+The light automobiles approaching our vicinity
+M1401+Dark-colored cars
+M1401+Vehicles approaching our position
+M1401+The dark cars proceeding away from us
+M1401+Taxi invading other lanes
+M1401+The yellow-toned vehicles
+M1401+The moving hired vehicle
+M1401+White painted cars
+M1401+Cars traveling
+M1401+The dark-colored car is failing to stay inside its designated lane
+M1401+The white vehicles traveling contrary to our course
+M1401+The dark vehicles traveling away from our position
+M1401+The yellow exterior vehicles
+M1401+Cars proceeding in contrary direction to ours
+M1401+Cars maintaining equivalent directional movement
+M1401+The white automobiles progressing in opposing directional flow
+M1401+The taxis travel path is encroaching on the space of the adjacent lane
+M1401+The white vehicles coming toward our location
+M1401+The black automobiles heading the same way we are
+M1401+The white vehicles departing from our location
+M1401+Vehicles driving alongside our trajectory
+M1401+Vehicles traveling contrary to our course
+M1401+Vehicles moving in reverse direction from us
+M1401+The white automobiles progressing in the same directional flow
+M1401+Autos on right part of straight road
+M1401+The black vehicles driving alongside our trajectory
+M1401+Vehicles traveling on contrary vector to our position
+M1401+The black-painted vehicles
+M1401+The dark autos moving in alignment with our path
+M1401+The white cars
+M1401+The dark vehicles traveling contrary to our course
+M1401+The cabs movement indicates it is cutting into the next lane
+M1401+Cars proceeding in identical direction to ours
+M1401+Automobiles driving
+M1401+Cars driving toward us
+M1401+Automobiles moving in our direction
+M1401+The dark vehicles traveling on identical vector as our position
+M1401+The moving taxi
+M1401+Vehicles proceeding
+M1401+Cars in dark shades
+M1401+The dark-colored cars proceeding in contrary direction to ours
+M1401+Automobiles approaching our vicinity
+M1401+The black vehicles journeying along the same route direction as we are
+M1401+The white vehicles moving in reverse direction from us
+M1401+Automobiles progressing in opposing directional flow
+M1401+Cars on the left side of the straight road
+M1401+The white vehicles traveling away from our position
+M1401+The black finish cars
+M1401+Automobiles on right side of straight road
+M1401+The cars trajectory extends beyond its lanes markings
+M1401+Vehicles moving in our direction
+M1401+The dark-colored cars maintaining contrary directional movement
+M1401+The white cars moving in the opposite direction to us
+M1401+The traveling taxi cab
+M1401+The white cars heading toward our position
+M1401+Vehicles traveling away from our position
+M1401+The light-toned vehicles
+M1401+The white-painted vehicles
+M1401+Vehicles aligned along the right perimeter of straight road
+M1401+The white vehicles traveling on identical vector as our position
+M1401+Cars heading away from our position
+M1401+The light colored car is not remaining inside its own lane
+M1401+Light-colored car invading other lanes
+M1401+The white car is failing to stay inside its designated lane
+M1401+The white vehicles moving in our direction
+M1401+Light-toned automobiles
+M1401+Dark-colored car invading other lanes
+M1401+Cars occupying the right-hand side of straight road
+M1401+Black vehicles
+M1401+The white vehicles traveling parallel to our course
+M1401+Automobiles heading the same way we are
+M1401+The yellow-painted vehicles
+M1401+The yellow-colored cars
+M1401+The white automobiles moving in our direction
+M1401+Cars proceeding toward us
+M1401+Vehicles in motion
+M1401+Vehicles journeying along the reverse route direction from us
+M1401+White car intruding into other lanes
+M1401+The white cars driving away from us
+M1401+Freight truck
+M1401+This dark colored cars path shows it is cutting into another lane
+M1401+The white vehicles
+M1401+The black automobiles
+M1401+The dark vehicles traveling parallel to our course
+M1401+The white automobiles heading opposite way we are
+M1401+The automobiles on the driving path
+M1401+Truck
+M1401+The black cars driving away from us
+M1401+The black cars
+M1401+Light finish vehicles
+M1401+The white cars moving away from us
+M1401+The moving cab vehicle
+M1401+The white automobiles moving in opposite direction
+M1401+The taxi in motion
+M1401+The black automobiles progressing in the same directional flow
+M1401+The cars on the road
+M1401+Cars invading other lanes
+M1401+Automobiles departing our vicinity
+M1401+The white cars advancing in our matching direction
+M1401+Traveling vehicles
+M1401+The light autos moving in reverse alignment to our path
+M1401+The dark automobiles
+M1401+The black cars advancing in opposing direction
+M1401+The white-colored cars proceeding in contrary direction to ours
+M1401+Cars moving in the opposite direction to us
+M1401+The white vehicles approaching our position
+M1401+Cars in movement
+M1401+Black car invading other lanes
+M1401+Moving automobiles
+M1401+The white cars driving toward us
+M1401+The black cars moving towards us
+M1401+The path of the light colored auto is encroaching on the nearby lane
+M1401+The dark-colored cars proceeding in identical direction to ours
+M1401+Automobiles situated on the left margin of straight road
+M1401+The pale shaded vehicle appears to be cutting into the lane next to it
+M1401+The black cars moving in the same direction as us
+M1401+The white-colored cars proceeding in identical direction to ours
+M1401+Dark finish vehicles
+M1401+Heavy cargo vehicle
+M1401+The dark-colored cars maintaining equivalent directional movement
+M1401+The cars positioned on street
+M1401+Vehicles driving against our trajectory
+M1401+Automobiles with light exterior
+M1401+The black cars moving away from us
+M1401+The traveling taxi service
+M1401+Autos on left part of straight road
+M1401+Vehicles traveling parallel to our course
+M1401+Automobiles heading opposite way we are
+M1401+The white vehicles journeying along the reverse route direction from us
+M1401+Vehicles journeying along the same route direction as we are
+M1401+The dark automobiles approaching our vicinity
+M1401+This automobiles route is encroaching upon the next lane
+M1401+Cars positioned on straight road's right area
+M1401+Light-colored cars
+M1401+Cars driving forward
+M1401+Dark-toned automobiles
+M1401+The vehicle is observed crossing the lane marker into the next lane
+M1401+Cars on left section of straight road
+M1401+The cars situated on the driving lane
+M1401+Light automobiles
+M1401+The white vehicles traveling on contrary vector to our position
+M1401+The dark autos moving in reverse alignment to our path
+M1401+The black cars heading toward our position
+M1401+This cab is crossing the marked line that separates the lanes
+M1401+The traveling cab
+M1401+Automobiles with dark exterior
+M1401+The dark vehicles moving in reverse direction from us
+M1401+The black automobiles progressing in opposing directional flow
+M1401+The black autos traveling toward our view
+M1401+Light-painted cars
+M1401+Vehicles on straight road's left portion
+M1401+The automobiles occupying the driving surface
+M1401+Commercial truck
+M1401+Vehicles traveling on identical vector as our position
+M1401+White vehicles
+M1401+The white-colored cars maintaining equivalent directional movement
+M1401+The white exterior vehicles
+M1401+The vehicles established on the road zone
+M1401+The black cars moving in the opposite direction to us
+M1401+The black vehicles journeying along the reverse route direction from us
+M1401+The black vehicles going away from us
+M1401+The black autos traveling away from our view
+M1401+The white automobiles
+M1401+Cars driving away from us
+M1401+The white colored cars
+M1401+The white vehicles coming our way
+M1401+The driving cab
+M1401+The light painted automobiles
+M1401+The taxi is not keeping to its own lane
+M1401+The autos located on road area
+M1401+The black cars heading away from our position
+M1401+The dark-colored car is seen crossing the lane divider line
+M1401+The taxi driving forward
+M1401+The white cars advancing in opposing direction
+M1401+The dark vehicles traveling on contrary vector to our position
+M1401+Automobiles progressing in the same directional flow
+M1401+The dark-toned vehicles
+M1401+Cars proceeding away from us
+M1401+Large transport truck
+M1401+The black vehicles driving against our trajectory
+M1401+Vehicles located on the right boundary of straight road
+M1401+Cars on right section of straight road
+M1401+Vehicles coming toward our location
+M1401+Cars on the right side of the straight road
+M1401+The vehicles present on the road infrastructure
+M1401+This vehicle is driving across the line marking into the adjacent lane
+M1401+Dark-painted cars
+M1401+Large delivery vehicle
+M1401+The vehicles placed on the road surface
+M1401+The white cars moving towards us
+M1401+The dark painted automobiles
+M1401+The yellow painted automobiles
+M1401+The light cars proceeding toward us
+M1401+The yellow finish cars
+M1401+Cars moving in the same direction as us
+M1401+The dark-colored cars
+M1401+Large cargo vehicle
+M1401+Automobiles in motion
+M1401+The vehicle is failing to stay within its designated lane
+M1401+The cars movement shows it is cutting into an adjacent lane
+M1401+Cars advancing in our matching direction
+M1401+The white cars moving in the same direction as us
+M1401+The light autos moving in alignment with our path
+M1401+The black cars advancing in our matching direction
+M1401+Cars that are moving towards us
+M1401+The white automobiles heading the same way we are
+M1401+Autos traveling away from our view
+M1401+Vehicles on straight road's right portion
+M1401+White colored cars
+M1401+Freight vehicle
+M1401+Cars in transit
+M1401+Vehicles coming our way
+M1401+The light automobiles departing our vicinity
+M1401+The white finish cars
+M1401+The black vehicles coming toward our location
+M1401+The light automobiles
+M1401+Vehicles departing from our location
+M1401+The dark automobiles moving in our direction
+M1401+The motion of the taxi is causing it to move into the adjacent lane
+M1401+The white-colored cars
+M1401+The yellow colored cars
+M1401+The yellow vehicles
+M1401+Vehicles along left edge of straight road
+M1401+The black vehicle is not staying within its lane boundaries
+M1401+The white vehicles going away from us
+M1401+The black automobiles heading opposite way we are
+M1401+Moving cars
+M1401+Autos moving in alignment with our path
+M1401+The black vehicles coming our way
+M1401+Autos traveling toward our view
