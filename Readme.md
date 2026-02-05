@@ -20,6 +20,8 @@ If you aim to construct a dataset similar to AerialMind, this repository [ **CRM
 We referenced the [**RefDrone**](https://github.com/sunzc-sunny/refdrone) repository for the **COALA** methodology. We sincerely thank the authors for their contributions. We will release our core annotation tool [**Stage 2**](./Annotation/COALA(Stage2).md) to facilitate future research.
 
 
+## 🚀 GPU Resource Requirements
+Regarding RMOT research on Aerialmind: **the number of GPUs is critical**. This is primarily due to the inherited limitation from the MOTR model, where the batch size is restricted to 1. Given the massive scale of the Aerialmind dataset, our training took approximately **110 hours on an 8-GPU setup**.
 
 # Getting started
 ## Data Preparation
