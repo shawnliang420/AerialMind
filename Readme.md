@@ -226,11 +226,14 @@ We also thank the community for your interest in AerialMind.
 ## Citing AerialMind
 If you find AerialMind useful in your research, please consider citing:
 ```bibtex
-@article{chen2025aerialmind,
-  title={AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios},
+@inproceedings{chen2026aerialmind,
+  title={Aerialmind: Towards referring multi-object tracking in UAV scenarios},
   author={Chen, Chenglizhao and Liang, Shaofeng and Guan, Runwei and Sun, Xiaolou and Zhao, Haocheng and Jiang, Haiyun and Huang, Tao and Ding, Henghui and Han, Qing-Long},
-  journal={arXiv preprint arXiv:2511.21053},
-  year={2025}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={4},
+  pages={2805--2813},
+  year={2026}
 }
 ```
 
