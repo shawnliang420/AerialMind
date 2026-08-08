@@ -210,9 +210,6 @@ python new_metric.py
 
 
 
-# Results
-## Visualization
-<div align=center><img src="Figs/vis.png"/></div>
 
 
 
