@@ -37,6 +37,10 @@ Put the tracking datasets in ./data. It should look like:
             |-- labels_with_ids
    ```
 
+## 📢Expression Annotation Protocol
+Each JSON file under the `expression` directory represents a separate referring query. For training, inference, and official evaluation, please use the **JSON file name without the `.json` extension** as the query text and `expression_id`. The `sentence` field inside the JSON stores the original human-annotated expression from which multiple paraphrased expressions were generated with an LLM. It is retained only as provenance and backup information from the dataset construction process and can be ignored during standard training and evaluation. Consequently, expression files must be evaluated separately even when they share the same `sentence` value; they should not be merged or deduplicated for the official benchmark.
+
+If the complete dataset is too computationally expensive for early experiments,💡💡💡 researchers may create a smaller, unofficial subset based on unique `sentence` values for faster training and evaluation. However, because the aerial scenarios are challenging, models trained on this reduced subset may be harder to optimize or produce less stable results. We nevertheless consider this a worthwhile setting for preliminary experiments.
 ## Test Set Partition
 ### In-Domain (VisDrone):
 `video_ids = ["uav0000009_03358_v", "uav0000073_00600_v", "uav0000073_04464_v", "uav0000077_00720_v", "uav0000088_00290_v", "uav0000119_02301_v", "uav0000120_04775_v", "uav0000161_00000_v", "uav0000188_00000_v", "uav0000201_00000_v", "uav0000249_00001_v", "uav0000249_02688_v", "uav0000297_00000_v", "uav0000297_02761_v", "uav0000306_00230_v", "uav0000355_00001_v", "uav0000370_00001_v"]`
